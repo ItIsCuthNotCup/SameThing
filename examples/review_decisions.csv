@@ -1,0 +1,515 @@
+left_rid,right_rid,left_title,right_title,human_decision,fuzzy_score,jev_score,material_diffs,rule_reason
+552,90132241,Sony Turntable - PSLX350H,Sony PS-LX350H Belt-Drive Turntable,,0.7845238095238095,,one title looks like an accessory,rules did not resolve
+580,202812620,Bose Acoustimass 5 Series III Speaker System - AM53BK,Bose Acoustimass 5 Series III Speaker System - 21725,,0.5676870748299321,,,rules did not resolve
+580,202812567,Bose Acoustimass 5 Series III Speaker System - AM53BK,Boss 161 Speaker,,0.3831159420289856,,,rules did not resolve
+4696,90049928,Sony Switcher - SBV40S,Sony SB-V40S A/V Selector - SBV40S,,0.8539285714285714,,quantity differs (1 vs 4),rules did not resolve
+6284,202812567,Bose 27028 161 Bookshelf Pair Speakers In White - 161WH,Boss 161 Speaker,,0.37511737089201874,,,rules did not resolve
+6284,203459314,Bose 27028 161 Bookshelf Pair Speakers In White - 161WH,Bose In-Ear Earphone - INEARHEADPHONES,,0.31500000000000006,,,rules did not resolve
+6726,203897877,KitchenAid Pasta Roller And Cutter - KPRA,KitchenAid 5-Speed Blender - Red Finish - KSB560ER,,0.3780887651674168,,,rules did not resolve
+7195,90105458,Sony Vertical-In-The-Ear Stereo Headphones - MDRJ10,Sony h.ear Stereo Earphones - MDRJ10/BLUE,,0.8047101449275363,,,rules did not resolve
+7783,202900227,Panasonic 2-Line Integrated Telephone - KXTSC14W,Panasonic KX-TSC14W 2-Line Telephone,,0.9071812596006145,,quantity differs (1 vs 2),rules did not resolve
+8060,90105056,Panasonic 2-Line Integrated Telephone System - KXTS208W,Panasonic KX-TS208W Corded Phone,,0.6739811912225706,,quantity differs (1 vs 2),rules did not resolve
+8060,202900227,Panasonic 2-Line Integrated Telephone System - KXTS208W,Panasonic KX-TSC14W 2-Line Telephone,,0.3869431643625192,,quantity differs (1 vs 2),rules did not resolve
+9071,90138609,Sony 400 Disc MegaStorage CD Changer - CDPCX455,Sony CDP-CX355 300 Disc MegaStorage CD Changer,,0.4293010752688171,,,rules did not resolve
+9312,90138520,Panasonic Hands-Free Headset - KXTCA86,Panasonic KX-TCA92 Headset,,0.2971085963455149,,,rules did not resolve
+9314,90114398,Panasonic Hands Free Headset - KXTCA92,Panasonic KX-TCA86 Headset,,0.2971085963455149,,,rules did not resolve
+9355,203151776,Cuisinart Convection-Oven-Toaster-Broiler With Exact Heat Sensor - TOB165WH,White .5 cu. ft 1500 Watt Convection/Broiler/Toaster Oven,,0.3875600961538462,,,rules did not resolve
+9355,203111113,Cuisinart Convection-Oven-Toaster-Broiler With Exact Heat Sensor - TOB165WH,Cuisinart Cordless Automatic Electric Kettle,,0.3140594699418229,,,rules did not resolve
+9355,203155653,Cuisinart Convection-Oven-Toaster-Broiler With Exact Heat Sensor - TOB165WH,Cuisinart GR-4 Griddler Four Multifunctional Cooking Options,,0.309375,,,rules did not resolve
+9355,203162678,Cuisinart Convection-Oven-Toaster-Broiler With Exact Heat Sensor - TOB165WH,Cuisinart Brew & Serve Stainless Therm Black 10-Cup Coffee Maker,,0.31174323744096183,,,rules did not resolve
+9646,203111113,Cuisinart Cordless Electric Kettle - KUA17,Cuisinart Cordless Automatic Electric Kettle,,0.7003059975520196,,,rules did not resolve
+9646,203162678,Cuisinart Cordless Electric Kettle - KUA17,Cuisinart Brew & Serve Stainless Therm Black 10-Cup Coffee Maker,,0.3480769230769231,,,rules did not resolve
+9646,203155653,Cuisinart Cordless Electric Kettle - KUA17,Cuisinart GR-4 Griddler Four Multifunctional Cooking Options,,0.33700980392156865,,,rules did not resolve
+10101,90106210,Omnimount Wall Speaker Mount - 20WLBK,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,,0.6117921146953404,,,rules did not resolve
+10101,90106172,Omnimount Wall Speaker Mount - 20WLBK,OmniMount Universal Wall Speaker Mounting Kit - 20.0 WALL-B,,0.5825074515648286,,one title looks like an accessory; one title looks like a bundle/kit,rules did not resolve
+10101,90140203,Omnimount Wall Speaker Mount - 20WLBK,OmniMount TV Top Shelf Mount,,0.4976073345259391,,,rules did not resolve
+10102,90106210,Omnimount Wall Speaker Mount - 20WLWH,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,,0.6173476702508962,,,rules did not resolve
+10102,90106172,Omnimount Wall Speaker Mount - 20WLWH,OmniMount Universal Wall Speaker Mounting Kit - 20.0 WALL-B,,0.5772991182314953,,one title looks like an accessory; one title looks like a bundle/kit,rules did not resolve
+10102,90140203,Omnimount Wall Speaker Mount - 20WLWH,OmniMount TV Top Shelf Mount,,0.4976073345259391,,,rules did not resolve
+11801,203025174,Escort Passport Radar And Laser Detector - Black Finish - 8500,Cordless Solo S2 Radar/Laser Detector - 010ES20A,,0.42348484848484846,,,rules did not resolve
+13155,90109367,Peerless Wall TV Mounts In Black - PM1327BK,Peerless Adjustable TV Wall Mount - PM1327,,0.4368382352941177,,possible model variant (pm1327bk vs pm1327 differ only by suffix); one title looks like an accessory,rule: possible variant (pm1327bk vs pm1327 differ only by suffix)
+13155,201701865,Peerless Wall TV Mounts In Black - PM1327BK,Peerless Universal Tilt Wall Mount,,0.41801948051948057,,one title looks like an accessory,rules did not resolve
+13213,203025617,Sony Compact Disc Player/Recorder - RCDW500C,Sony Compact Disc Player/Recorder - RCDW500C,accepted,1.0,,quantity differs (4 vs 1),rules did not resolve
+13580,90120953,Sanus WMS3B Black Weather Resistant Small Speaker Wall Mount - WMS3B,Sanus Flat Panel TV Wall Mount - VMF,,0.47692307692307684,,,rules did not resolve
+13580,202143942,Sanus WMS3B Black Weather Resistant Small Speaker Wall Mount - WMS3B,Sanus VCD/DVD Wall Mount - VMAVB,,0.4799090909090909,,,rules did not resolve
+13581,90125772,Sanus WMS3S Silver Weather Resistant Small Speaker Wall Mount - WMS3S,Sanus Speaker Mount - WMS3B BLACK,,0.2774509803921569,,,rules did not resolve
+13581,90120953,Sanus WMS3S Silver Weather Resistant Small Speaker Wall Mount - WMS3S,Sanus Flat Panel TV Wall Mount - VMF,,0.475595238095238,,,rules did not resolve
+13581,202143942,Sanus WMS3S Silver Weather Resistant Small Speaker Wall Mount - WMS3S,Sanus VCD/DVD Wall Mount - VMAVB,,0.47381998199819986,,,rules did not resolve
+13700,90111702,Sanus Euro Foundations Satellite Speaker Stand - EFSATB,Sanus Euro Foundation Series III Speaker Stand - EFSATBKIII,,0.806299840510367,,,rules did not resolve
+13700,90108521,Sanus Euro Foundations Satellite Speaker Stand - EFSATB,Sanus Euro Foundation Series III Speaker Stand - EFSATSIII,,0.7992357200321802,,,rules did not resolve
+13700,90125772,Sanus Euro Foundations Satellite Speaker Stand - EFSATB,Sanus Speaker Mount - WMS3B BLACK,,0.428219696969697,,,rules did not resolve
+13700,202291459,Sanus Euro Foundations Satellite Speaker Stand - EFSATB,Sanus Center Channel Speaker Mount - VMCC1B,,0.41298701298701296,,,rules did not resolve
+13701,90108521,Sanus Euro Foundations Satellite Speaker Stand - EFSATS,Sanus Euro Foundation Series III Speaker Stand - EFSATSIII,,0.8116251005631536,,,rules did not resolve
+13701,90111702,Sanus Euro Foundations Satellite Speaker Stand - EFSATS,Sanus Euro Foundation Series III Speaker Stand - EFSATBKIII,,0.794019138755981,,,rules did not resolve
+13701,90125772,Sanus Euro Foundations Satellite Speaker Stand - EFSATS,Sanus Speaker Mount - WMS3B BLACK,,0.428219696969697,,,rules did not resolve
+13701,202291459,Sanus Euro Foundations Satellite Speaker Stand - EFSATS,Sanus Center Channel Speaker Mount - VMCC1B,,0.4078849721706864,,,rules did not resolve
+13954,90128649,Panasonic Corded Phone - KXTS3282B,Panasonic KX-TS3282B Corded Phone,,0.9190298507462686,,quantity differs (1 vs 2),rules did not resolve
+13954,202900030,Panasonic Corded Phone - KXTS3282B,Panasonic KX-TS3282W Corded Telephone,,0.3407444668008047,,quantity differs (1 vs 2),rules did not resolve
+13954,90105056,Panasonic Corded Phone - KXTS3282B,Panasonic KX-TS208W Corded Phone,,0.3871212121212121,,quantity differs (1 vs 2),rules did not resolve
+13954,90104307,Panasonic Corded Phone - KXTS3282B,Panasonic KX-TS108W Corded Phone,,0.3734848484848484,,,rules did not resolve
+13954,90138537,Panasonic Corded Phone - KXTS3282B,Panasonic KX-TSC14B Corded Telephone,,0.30999999999999994,,quantity differs (1 vs 2),rules did not resolve
+13996,203025174,Escort Cordless Solo Radar Detector - S2E,Cordless Solo S2 Radar/Laser Detector - 010ES20A,,0.6161048689138577,,,rules did not resolve
+14033,90105156,Garmin Deluxe Carrying Case - Black Finish - 0101023101,Garmin Canvas Deluxe Carry Case - 010-10231-01,,0.3286228622862286,,,rules did not resolve
+14033,202870173,Garmin Deluxe Carrying Case - Black Finish - 0101023101,Garmin Leather GPS Case,,0.4376508295625942,,,rules did not resolve
+14033,204053338,Garmin Deluxe Carrying Case - Black Finish - 0101023101,Garmin Leather Carry Case for Nuvi 660 - 010-10823-01,,0.49540396710208034,,,rules did not resolve
+14070,203162678,Cuisinart Automatic Brew And Serve Coffeemaker - DTC975BK,Cuisinart Brew & Serve Stainless Therm Black 10-Cup Coffee Maker,,0.46691176470588225,,,rules did not resolve
+14070,203111113,Cuisinart Automatic Brew And Serve Coffeemaker - DTC975BK,Cuisinart Cordless Automatic Electric Kettle,,0.4384252710985384,,,rules did not resolve
+14563,205106045,Sharp Over The Counter Microwave Oven - R1214SS,Sharp 1100 Watt Over the Counter Microwave,,0.6853781512605043,,,rules did not resolve
+14563,202870448,Sharp Over The Counter Microwave Oven - R1214SS,Sharp R-1214 Microwave Oven - R-1214,,0.4752081856839121,,possible model variant (r1214ss vs r1214 differ only by suffix),rule: possible variant (r1214ss vs r1214 differ only by suffix)
+16112,202900041,Panasonic Genius Prestige Inverter Microwave Convection Oven NNC994SS In Stainless Steel - NNC994SS,"Panasonic NN-C994S Genius Prestige Convection Microwave Oven with Inverter Turbo Defrost and One-Touch Sensor Cooking, Stainless",,0.4630715339233038,,possible model variant (nnc994ss vs nnc994s differ only by suffix),rule: possible variant (nnc994ss vs nnc994s differ only by suffix)
+16112,204559210,Panasonic Genius Prestige Inverter Microwave Convection Oven NNC994SS In Stainless Steel - NNC994SS,Panasonic NNSD797S 1.6 cu. ft. Genius Prestige Inverter Stainless Steel Microwave Oven,,0.3606604617862895,,,rules did not resolve
+16394,203111424,Danby Twin Tub Washer - DTT420WH,"Twin Tub DTT420 Washer (Top Loading, 10 Lbs.)",,0.31061242093156993,,possible model variant (dtt420wh vs dtt420 differ only by suffix),rule: possible variant (dtt420wh vs dtt420 differ only by suffix)
+16668,90140203,Omnimount TV Top Shelf Mount - CCH1P,OmniMount TV Top Shelf Mount,,0.79375,,,rules did not resolve
+16668,203324914,Omnimount TV Top Shelf Mount - CCH1P,OmniMount MWFS Moda Collection 2 Shelf Wall Mounted Furniture System - Espresso,,0.434766201804758,,one title looks like an accessory,rules did not resolve
+16668,90106210,Omnimount TV Top Shelf Mount - CCH1P,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,,0.4522056065621891,,,rules did not resolve
+16669,90140203,Omnimount TV Top Shelf Mount - CCH1B,OmniMount TV Top Shelf Mount,,0.8937499999999999,,,rules did not resolve
+16669,90148258,Omnimount TV Top Shelf Mount - CCH1B,OmniMount TV Top Shelf Mount - CCH1P,,0.5376984126984127,,,rules did not resolve
+16669,203324914,Omnimount TV Top Shelf Mount - CCH1B,OmniMount MWFS Moda Collection 2 Shelf Wall Mounted Furniture System - Espresso,,0.4304183757178015,,one title looks like an accessory,rules did not resolve
+16669,90106210,Omnimount TV Top Shelf Mount - CCH1B,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,,0.4522056065621891,,,rules did not resolve
+16741,201959840,Delonghi Twenty Four Seven Coffee Maker In Black - DC50B,"DeLonghi DC50B Twenty Four Seven Drip Coffee Maker, Black",,0.9111148197596796,,,rules did not resolve
+16741,203151930,Delonghi Twenty Four Seven Coffee Maker In Black - DC50B,DeLonghi 4-Cup Drip Coffee Makers,,0.4553626149131767,,,rules did not resolve
+16741,203151779,Delonghi Twenty Four Seven Coffee Maker In Black - DC50B,DeLonghi 6-pc. Replacement Filters for Deep Fryer,,0.36106227106227107,,one title looks like an accessory,rules did not resolve
+16758,90137168,Sanus Silver LCD Television Turntable - TVLCDS,Sanus Television Turntable - TV/LCDS,,0.8214503484320558,,,rules did not resolve
+16758,90145568,Sanus Silver LCD Television Turntable - TVLCDS,Sanus Under Cabinet LCD TV Mount - VMUC1S,,0.44264367816091954,,one title looks like an accessory,rules did not resolve
+16774,90139860,Olympus Olympus Ni-MH Quick Charger And Battery Set - B90SU,Olympus B-90SU AA/AAA Size Battery Charger - 200899,,0.7225171886936593,,quantity differs (4 vs 1),rules did not resolve
+16877,202125720,Sony Digital Photo Printer Paper 40 Pack - SVMF40P,Sony Ribbon and Paper with Snap-Off Edges For DPP-FP50 Digital Photo Printer - SVMF120P,,0.5420229405630866,,quantity differs (40 vs 1),rules did not resolve
+17067,90141687,Canon Rechargeable Battery - 9763A001,Canon CB-2LV Battery Charger - 9764A001,,0.3203947368421053,,,rules did not resolve
+17067,202451162,Canon Rechargeable Battery - 9763A001,Canon Canon CB-2LW Battery Charger - 0763B001,,0.2955551989730423,,,rules did not resolve
+17094,201959840,Delonghi Twenty Four Seven Coffee Maker - DC50W,"DeLonghi DC50B Twenty Four Seven Drip Coffee Maker, Black",,0.7071686610973131,,,rules did not resolve
+17094,203151930,Delonghi Twenty Four Seven Coffee Maker - DC50W,DeLonghi 4-Cup Drip Coffee Makers,,0.48102272727272727,,,rules did not resolve
+17094,203151779,Delonghi Twenty Four Seven Coffee Maker - DC50W,DeLonghi 6-pc. Replacement Filters for Deep Fryer,,0.3844551282051282,,one title looks like an accessory,rules did not resolve
+17187,202041195,Universal IR/RF Remote - MX350,Universal Aeros IR/RF Remote Control - MX850,,0.4209459459459459,,,rules did not resolve
+17220,90141074,Panasonic 5-Pack DVD-RAM Discs - LMAF120LU5,Panasonic 3x DVD-RAM Media,,0.6652342433434445,,quantity differs (5 vs 3),rules did not resolve
+17417,90145560,Sanus 13' - 30' VisionMount Flat Panel TV Silver Wall Mount - VMFS,Sanus VisionMount Flat Panel TV Wall Mount - VMPL3B,,0.7166444768046599,,,rules did not resolve
+17417,202827713,Sanus 13' - 30' VisionMount Flat Panel TV Silver Wall Mount - VMFS,Sanus VisionMount Flat Panel TV Wall Mount - ML22-B1,,0.6982758620689656,,,rules did not resolve
+17417,202827715,Sanus 13' - 30' VisionMount Flat Panel TV Silver Wall Mount - VMFS,Sanus VisionMount Tilting Flat Panel TV Wall Mount - MT25-B1,,0.6470223325062034,,,rules did not resolve
+17417,202827684,Sanus 13' - 30' VisionMount Flat Panel TV Silver Wall Mount - VMFS,Sanus VisionMount Flat Panel TV Wall Mount - MF110-B1,,0.6966021235351133,,,rules did not resolve
+17417,90120953,Sanus 13' - 30' VisionMount Flat Panel TV Silver Wall Mount - VMFS,Sanus Flat Panel TV Wall Mount - VMF,,0.6853475935828877,,,rules did not resolve
+17479,90145909,Weber Performer 22-1/2' Charcoal Grill - 841001,Weber 848001 Performer 22.5' Charcoal Grill in Dark Blue,,0.36603048462741017,,,rules did not resolve
+17479,202619749,Weber Performer 22-1/2' Charcoal Grill - 841001,Weber Q 300 Gas Grill,,0.44858802578018997,,,rules did not resolve
+17596,90120953,Sanus 13' - 30' Flat Panel TV Black Wall Mount - VM1B,Sanus Flat Panel TV Wall Mount - VMF,,0.7146788370520623,,,rules did not resolve
+17596,90145584,Sanus 13' - 30' Flat Panel TV Black Wall Mount - VM1B,Sanus Flat Panel TV Wall Mount - VM400B,,0.44563380281690135,,,rules did not resolve
+17596,90145561,Sanus 13' - 30' Flat Panel TV Black Wall Mount - VM1B,Sanus Flat Panel TV Wall Mount - VM400S,,0.4400782472613458,,,rules did not resolve
+17596,90131941,Sanus 13' - 30' Flat Panel TV Black Wall Mount - VM1B,Sanus Flat Panel TV Wall Mount - VMPL50-B,,0.4219909036764308,,,rules did not resolve
+17596,202827684,Sanus 13' - 30' Flat Panel TV Black Wall Mount - VM1B,Sanus VisionMount Flat Panel TV Wall Mount - MF110-B1,,0.3584401709401709,,,rules did not resolve
+17872,90145584,Sanus 15' - 40' Flat Panel TV Silver Wall Mount - VM400S,Sanus Flat Panel TV Wall Mount - VM400B,,0.4499348780857185,,,rules did not resolve
+17872,90120953,Sanus 15' - 40' Flat Panel TV Silver Wall Mount - VM400S,Sanus Flat Panel TV Wall Mount - VMF,,0.7079738562091503,,,rules did not resolve
+17872,90139261,Sanus 15' - 40' Flat Panel TV Silver Wall Mount - VM400S,Sanus Flat Panel TV Wall Mount - VM1B,,0.4496989966555184,,,rules did not resolve
+17872,90131941,Sanus 15' - 40' Flat Panel TV Silver Wall Mount - VM400S,Sanus Flat Panel TV Wall Mount - VMPL50-B,,0.41581241397391366,,,rules did not resolve
+17873,90145561,Sanus 15' - 40' Flat Panel TV Black Wall Mount - VM400B,Sanus Flat Panel TV Wall Mount - VM400S,,0.4521555419473361,,,rules did not resolve
+17873,90120953,Sanus 15' - 40' Flat Panel TV Black Wall Mount - VM400B,Sanus Flat Panel TV Wall Mount - VMF,,0.710158625247852,,,rules did not resolve
+17873,90139261,Sanus 15' - 40' Flat Panel TV Black Wall Mount - VM400B,Sanus Flat Panel TV Wall Mount - VM1B,,0.45739130434782604,,,rules did not resolve
+17873,90131941,Sanus 15' - 40' Flat Panel TV Black Wall Mount - VM400B,Sanus Flat Panel TV Wall Mount - VMPL50-B,,0.42314724040168517,,,rules did not resolve
+17906,204274645,Frigidaire Electric Dryer - FEQ1442WH,Frigidaire Electric Dryer - FEQ332WH 5.7 Cu.Ft. Super Capacity Drum,,0.3306490384615385,,,rules did not resolve
+17906,204569335,Frigidaire Electric Dryer - FEQ1442WH,Frigidaire 27'' Electric Stack Washer Dryer Combo - FEX831WH Extra-Large Capacity Wash Tub,,0.2938303571428572,,one title looks like a bundle/kit,rules did not resolve
+18040,203151779,Delonghi Oil Filters - FK8,DeLonghi 6-pc. Replacement Filters for Deep Fryer,,0.5161904761904762,,quantity differs (3 vs 1); one title looks like an accessory,rules did not resolve
+18040,203151930,Delonghi Oil Filters - FK8,DeLonghi 4-Cup Drip Coffee Makers,,0.3878531073446328,,quantity differs (3 vs 1),rules did not resolve
+18040,201959840,Delonghi Oil Filters - FK8,"DeLonghi DC50B Twenty Four Seven Drip Coffee Maker, Black",,0.3351571670796922,,quantity differs (3 vs 1),rules did not resolve
+18087,203150909,Danby Designer Portable Dishwasher - DDW1805WH,"DDW1805W 18-in. Portable Dishwasher (White, Energy Star)",,0.34696969696969693,,possible model variant (ddw1805wh vs ddw1805w differ only by suffix),rule: possible variant (ddw1805wh vs ddw1805w differ only by suffix)
+18202,203201062,Canon Optura/Elura Accessory Kit - ACCESSORYKIT,Canon Battery and Charger Kit - 1169B001,,0.3816091954022989,,one title looks like an accessory,rules did not resolve
+18202,203347464,Canon Optura/Elura Accessory Kit - ACCESSORYKIT,Canon Mini DV Camcorder Starter Kit - 9582A008,,0.38748778103616816,,,rules did not resolve
+18516,204559214,Panasonic Genius Countertop Microwave In White - NNH965WH,Panasonic NNSN667W 1.2 cu. ft. Countertop Microwave Oven In White,,0.32866523845007456,,,rules did not resolve
+18524,90145972,Weber Performer 22-1/2' Charcoal Grill - 848001,Weber 841001 Performer 22.5' Charcoal Grill in Black,,0.39226804123711345,,,rules did not resolve
+18524,202619749,Weber Performer 22-1/2' Charcoal Grill - 848001,Weber Q 300 Gas Grill,,0.44858802578018997,,,rules did not resolve
+18837,203155653,Cuisinart Countertop Griddler - GR4,Cuisinart GR-4 Griddler Four Multifunctional Cooking Options,,0.45671300893743794,,,rules did not resolve
+18837,203111113,Cuisinart Countertop Griddler - GR4,Cuisinart Cordless Automatic Electric Kettle,,0.37318037974683543,,,rules did not resolve
+18837,203162678,Cuisinart Countertop Griddler - GR4,Cuisinart Brew & Serve Stainless Therm Black 10-Cup Coffee Maker,,0.3341494845360825,,,rules did not resolve
+18960,205145879,Nikon AF Speedlight Accessory - SB600,Nikon Digital Camera Leather Case - 5811,,0.3474675324675325,,one title looks like an accessory,rules did not resolve
+18970,204559213,Panasonic Genius Countertop Microwave In Black - NNH965BK,Panasonic NNSN667B 1.2 cu. ft. Countertop Microwave Oven In Black,,0.32866523845007456,,,rules did not resolve
+19112,90148541,Sony Soft Cyber-Shot Carrying Case - LCSCST,Sony LCS Soft Carrying Case - LCSCST,,0.8761401712583768,,,rules did not resolve
+19112,203340806,Sony Soft Cyber-Shot Carrying Case - LCSCST,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.7081930415263749,,,rules did not resolve
+19132,204939361,Pioneer XM Digital Satellite Tuner for Pioneer Headunits - GEXP920XM,Audiovox Satellite Radio Tuner,,0.4404761904761904,,,rules did not resolve
+19132,202784218,Pioneer XM Digital Satellite Tuner for Pioneer Headunits - GEXP920XM,Pioneer TS-P462 Speaker,,0.30741758241758244,,,rules did not resolve
+19132,203022202,Pioneer XM Digital Satellite Tuner for Pioneer Headunits - GEXP920XM,Pioneer Car Audio Remote Control - CDVC1,,0.3123518518518519,,one title looks like an accessory,rules did not resolve
+19132,203922244,Pioneer XM Digital Satellite Tuner for Pioneer Headunits - GEXP920XM,Pioneer iBus Interface Cable for iPod - CD-I200,,0.37313943675178946,,one title looks like an accessory,rules did not resolve
+19141,90120953,Sanus Universal Projector Ceiling Mount - Black Finish - VMPR1B,Sanus Flat Panel TV Wall Mount - VMF,,0.3849876314162029,,,rules did not resolve
+19204,90140203,OmniMount G-303 Gray Stellar Series Audio Tower - G303GR,OmniMount TV Top Shelf Mount,,0.3376002376002376,,one title looks like an accessory,rules did not resolve
+19204,90106210,OmniMount G-303 Gray Stellar Series Audio Tower - G303GR,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,,0.37212628170534273,,one title looks like an accessory,rules did not resolve
+19204,90106172,OmniMount G-303 Gray Stellar Series Audio Tower - G303GR,OmniMount Universal Wall Speaker Mounting Kit - 20.0 WALL-B,,0.34969309462915604,,one title looks like a bundle/kit,rules did not resolve
+19358,90144996,Sennheiser RF Wireless Headphones - RS140,Sennheiser RS 140 Wireless RF Headphone - RS-140,,0.6899578651685394,,,rules did not resolve
+19358,90144998,Sennheiser RF Wireless Headphones - RS140,Sennheiser RS 130 Wireless Headphone - RS130,,0.6592156862745098,,,rules did not resolve
+19358,90131741,Sennheiser RF Wireless Headphones - RS140,Sennheiser RS 120 Wireless Hi-fi Headphone - RS120,,0.6118881118881119,,,rules did not resolve
+19358,90049752,Sennheiser RF Wireless Headphones - RS140,Sennheiser Nickel metal hydride Battery for Headsets - BA-151,,0.3693627450980392,,one title looks like an accessory,rules did not resolve
+19628,202778257,Pioneer Wired Marine Remote Control Display - CDMR80D,Pioneer Nautica Marine Remote Control,,0.7426767676767676,,,rules did not resolve
+19628,203022202,Pioneer Wired Marine Remote Control Display - CDMR80D,Pioneer Car Audio Remote Control - CDVC1,,0.3045430107526882,,,rules did not resolve
+19631,202812646,Bose Second Zone Remote - PMC2,Bose PMCII Remote Control,,0.45422077922077925,,,rules did not resolve
+19676,202827715,Sanus 32' - 84' Flat Panel TV Black Tilting Wall Mount - VMPL3B,Sanus VisionMount Tilting Flat Panel TV Wall Mount - MT25-B1,,0.34729815638906536,,,rules did not resolve
+19676,90120953,Sanus 32' - 84' Flat Panel TV Black Tilting Wall Mount - VMPL3B,Sanus Flat Panel TV Wall Mount - VMF,,0.6857599647169084,,,rules did not resolve
+19676,90139261,Sanus 32' - 84' Flat Panel TV Black Tilting Wall Mount - VMPL3B,Sanus Flat Panel TV Wall Mount - VM1B,,0.432882955553763,,,rules did not resolve
+19676,90131941,Sanus 32' - 84' Flat Panel TV Black Tilting Wall Mount - VMPL3B,Sanus Flat Panel TV Wall Mount - VMPL50-B,,0.40579505774912694,,,rules did not resolve
+19676,90145584,Sanus 32' - 84' Flat Panel TV Black Tilting Wall Mount - VMPL3B,Sanus Flat Panel TV Wall Mount - VM400B,,0.41745198463508315,,,rules did not resolve
+20448,90148541,Sony VAIO Neoprene Laptop Carrying Case - Black Finish - VGPAMC3,Sony LCS Soft Carrying Case - LCSCST,,0.5073376623376624,,,rules did not resolve
+20450,201692660,Canon Color Ink Tank - CL41CL,"Canon Ink Cartridge For PIXMA iP1600, iP6210D and iP6220D Printers - 0617B002",,0.35821428571428576,,,rules did not resolve
+20453,201692665,Canon Cyan Ink Tank - Cyan - CLI8C,"Canon Ink Cartridge For PIXMA iP4200, iP5200, iP5200R and iP6600D Printers - 0620B002",,0.36479982006297795,,,rules did not resolve
+20453,201692677,Canon Cyan Ink Tank - Cyan - CLI8C,Canon CLI-8C Ink Cartridge - 0621B002,,0.6635779589819619,,,rules did not resolve
+20454,201692665,Canon Magenta Ink Tank - Magenta - CLI8M,"Canon Ink Cartridge For PIXMA iP4200, iP5200, iP5200R and iP6600D Printers - 0620B002",,0.35397123202001257,,,rules did not resolve
+20454,201692648,Canon Magenta Ink Tank - Magenta - CLI8M,Canon CLI-8M Ink Cartridge - 0622B002,,0.6416798648505966,,,rules did not resolve
+20454,201953025,Canon Magenta Ink Tank - Magenta - CLI8M,Canon CLI-8PM Photo Magenta Ink Cartridge - 0625B002,,0.2744143744454304,,,rules did not resolve
+20458,201692665,Canon Cyan Photo Ink Cartridge - Cyan - CLI8PC,"Canon Ink Cartridge For PIXMA iP4200, iP5200, iP5200R and iP6600D Printers - 0620B002",,0.45039057841383423,,,rules did not resolve
+20458,201953025,Canon Cyan Photo Ink Cartridge - Cyan - CLI8PC,Canon CLI-8PM Photo Magenta Ink Cartridge - 0625B002,,0.3312430426716142,,,rules did not resolve
+20459,201692665,Canon Magenta Photo Ink Cartridge - Magenta - CLI8PM,"Canon Ink Cartridge For PIXMA iP4200, iP5200, iP5200R and iP6600D Printers - 0620B002",,0.4383190883190883,,,rules did not resolve
+20459,201953021,Canon Magenta Photo Ink Cartridge - Magenta - CLI8PM,Canon CLI-8PC Photo Cyan Ink Cartridge - 0624B002,,0.30960831247959963,,,rules did not resolve
+20461,201692665,Canon Yellow Ink Cartridge - Yellow - CLI8Y,"Canon Ink Cartridge For PIXMA iP4200, iP5200, iP5200R and iP6600D Printers - 0620B002",,0.4803427128427128,,,rules did not resolve
+20461,201692695,Canon Yellow Ink Cartridge - Yellow - CLI8Y,Canon Black Ink Cartridge - 0615B002,,0.3205350978135788,,,rules did not resolve
+20461,201692705,Canon Yellow Ink Cartridge - Yellow - CLI8Y,Canon PGI-5BK Black Ink Cartridge - 0628B002,,0.29356452455590387,,,rules did not resolve
+20461,201692648,Canon Yellow Ink Cartridge - Yellow - CLI8Y,Canon CLI-8M Ink Cartridge - 0622B002,,0.2998863636363637,,,rules did not resolve
+20461,201692677,Canon Yellow Ink Cartridge - Yellow - CLI8Y,Canon CLI-8C Ink Cartridge - 0621B002,,0.2998863636363637,,,rules did not resolve
+20461,201692660,Canon Yellow Ink Cartridge - Yellow - CLI8Y,"Canon Ink Cartridge For PIXMA iP1600, iP6210D and iP6220D Printers - 0617B002",,0.4895874713521772,,,rules did not resolve
+20461,201953021,Canon Yellow Ink Cartridge - Yellow - CLI8Y,Canon CLI-8PC Photo Cyan Ink Cartridge - 0624B002,,0.2745059288537549,,,rules did not resolve
+20466,201692660,Canon Black Ink Cartridge - Black - PG40BK,"Canon Ink Cartridge For PIXMA iP1600, iP6210D and iP6220D Printers - 0617B002",,0.5030431432973806,,,rules did not resolve
+20466,201692695,Canon Black Ink Cartridge - Black - PG40BK,Canon Black Ink Cartridge - 0615B002,,0.4306683480453971,,,rules did not resolve
+20466,201692705,Canon Black Ink Cartridge - Black - PG40BK,Canon PGI-5BK Black Ink Cartridge - 0628B002,,0.387064974674582,,,rules did not resolve
+20466,204736197,Canon Black Ink Cartridge - Black - PG40BK,Canon PG-40 Twin Pack Black Ink Cartridge - 0615B013,,0.35793512382281134,,,rules did not resolve
+20466,201692679,Canon Black Ink Cartridge - Black - PG40BK,Canon CLI-8Y Ink Cartridge - 0623B002,,0.32247903994739435,,,rules did not resolve
+20466,203185276,Canon Black Ink Cartridge - Black - PG40BK,Canon PG-40 Black Ink Cartridge - PG-40-BK-TWIN,,0.745621891692761,,,rules did not resolve
+20466,201692665,Canon Black Ink Cartridge - Black - PG40BK,"Canon Ink Cartridge For PIXMA iP4200, iP5200, iP5200R and iP6600D Printers - 0620B002",,0.4925454545454545,,,rules did not resolve
+20534,203022202,Pioneer Voice Command Pack - Black Finish - CDVC1,Pioneer Car Audio Remote Control - CDVC1,,0.8234521503293297,,one title looks like an accessory,rules did not resolve
+20534,202778257,Pioneer Voice Command Pack - Black Finish - CDVC1,Pioneer Nautica Marine Remote Control,,0.33393687707641195,,one title looks like an accessory,rules did not resolve
+20534,203922244,Pioneer Voice Command Pack - Black Finish - CDVC1,Pioneer iBus Interface Cable for iPod - CD-I200,,0.3768617021276596,,one title looks like an accessory,rules did not resolve
+21175,10412788,NetGear ProSafe 24 Port Smart Switch - FS726TP,Netgear ProSafe FS726TP 24 Port 10/100 Smart Switch - FS726TPNA,rejected,1.0,,quantity differs (1 vs 24),rules did not resolve
+21175,204549804,NetGear ProSafe 24 Port Smart Switch - FS726TP,Netgear ProSafe GS724TP 24 Port Smart Switch with PoE - GS724TP-100NAS,,0.4742980295566501,,quantity differs (1 vs 22),rules did not resolve
+21182,202486964,GE Platinum HDTV Millennium TV Antenna - TV24734,GE Millennium TV Antenna - 24734,,0.4284482758620689,,,rules did not resolve
+21267,202870174,Garmin Streetpilot C Series Vehicle Suction Mount - Black Finish - 0101060900,Garmin Vehicle Suction Cup mount,,0.6084403669724772,,,rules did not resolve
+21267,203087865,Garmin Streetpilot C Series Vehicle Suction Mount - Black Finish - 0101060900,Garmin Vehicle Suction Mount - 010-10609-00,,0.3406963470319635,,,rules did not resolve
+21267,204297424,Garmin Streetpilot C Series Vehicle Suction Mount - Black Finish - 0101060900,Garmin Portable Friction Mount,,0.39656511712586484,,,rules did not resolve
+21268,204297424,Garmin StreetPilot C330 Dash Mount - Black Finish - 0101061300,Garmin Portable Friction Mount,,0.38830227743271223,,,rules did not resolve
+21268,202870184,Garmin StreetPilot C330 Dash Mount - Black Finish - 0101061300,Garmin Cigarette Lighter Adapter for GPS Navigation - 010-10747-03,,0.3453794642857143,,,rules did not resolve
+21875,201700823,Netgear ProSafe 16 Port 10/100 Desktop Switch - Purple Finish - FS116P,Netgear ProSafe FS116P Ethernet Switch - FS116PNA,,0.8345677117000647,,quantity differs (1 vs 16),rules did not resolve
+21989,204274644,Frigidaire Electric White Dryer - FEQ332WH,Frigidaire Electric Dryer - FEQ1442WH 5.8 Cubic Foot Super Capacity Drum,,0.2887967200610221,,,rules did not resolve
+21989,204569335,Frigidaire Electric White Dryer - FEQ332WH,Frigidaire 27'' Electric Stack Washer Dryer Combo - FEX831WH Extra-Large Capacity Wash Tub,,0.2766244624940277,,one title looks like a bundle/kit,rules did not resolve
+22042,202145734,Logitech Harmony 890 Advanced Universal Remote Control - H890,Logitech Harmony 890 Advanced Universal Remote - 966193-0403,,0.7382438016528925,,,rules did not resolve
+22042,203329569,Logitech Harmony 890 Advanced Universal Remote Control - H890,Logitech Harmony 1000 Advanced Universal Remote Control - 966230-0403,,0.7152082430843493,,,rules did not resolve
+22042,202238311,Logitech Harmony 890 Advanced Universal Remote Control - H890,"Logitech Harmony 890 Advanced Universal Remote - HDTV, TV, DVD Player(s), Lighting, Audio System - 100 ft - Universal Remote - 966193-0403",,0.6156601721365743,,,rules did not resolve
+22100,201692660,Canon High Capacity Color Ink Cartridge - Color Ink - CL51,"Canon Ink Cartridge For PIXMA iP1600, iP6210D and iP6220D Printers - 0617B002",,0.4249138920780712,,,rules did not resolve
+22100,201953029,Canon High Capacity Color Ink Cartridge - Color Ink - CL51,Canon PG-50 High Capacity Black Ink Cartridge For PIXMA MP450 Printer - 0616B002,,0.35962467484206617,,,rules did not resolve
+22101,201692660,Canon Photo Ink Cartridge - CL52,"Canon Ink Cartridge For PIXMA iP1600, iP6210D and iP6220D Printers - 0617B002",,0.503994345975478,,,rules did not resolve
+22101,201692695,Canon Photo Ink Cartridge - CL52,Canon Black Ink Cartridge - 0615B002,,0.36542730299667037,,,rules did not resolve
+22101,201953021,Canon Photo Ink Cartridge - CL52,Canon CLI-8PC Photo Cyan Ink Cartridge - 0624B002,,0.40754341912534,,,rules did not resolve
+22101,201953025,Canon Photo Ink Cartridge - CL52,Canon CLI-8PM Photo Magenta Ink Cartridge - 0625B002,,0.4071025020177562,,,rules did not resolve
+22101,201692705,Canon Photo Ink Cartridge - CL52,Canon PGI-5BK Black Ink Cartridge - 0628B002,,0.32732745779543204,,,rules did not resolve
+22101,201692648,Canon Photo Ink Cartridge - CL52,Canon CLI-8M Ink Cartridge - 0622B002,,0.33676681706316647,,,rules did not resolve
+22101,201692679,Canon Photo Ink Cartridge - CL52,Canon CLI-8Y Ink Cartridge - 0623B002,,0.33676681706316647,,,rules did not resolve
+22187,204587803,Nikon 18-200mm Nikkor Zoom Lens - Black Finish - 2159,Nikon 18-200mm 3.5-5.6 G ED DX AFS VR Zoom Wide Angle Nikkor Lens - Niko_215930348,,0.5747619047619048,,quantity differs (11 vs 1),rules did not resolve
+22187,204587971,Nikon 18-200mm Nikkor Zoom Lens - Black Finish - 2159,Nikon 55-200mm f/4-5.6G ED IF AF-S DX VR Zoom Telephoto Nikkor Lens - Niko_216687518,,0.46492850033178496,,quantity differs (11 vs 1),rules did not resolve
+22187,203396327,Nikon 18-200mm Nikkor Zoom Lens - Black Finish - 2159,Nikon Nikkor 70-300mm f/4.5-5.6G ED-IF AF-S VR Telephoto Zoom Lens - 2161,,0.4316507936507937,,quantity differs (11 vs 1),rules did not resolve
+22187,203340555,Nikon 18-200mm Nikkor Zoom Lens - Black Finish - 2159,Nikon 55-200mm f/4-5.6G ED AF-S DX Telephoto Zoom Lens - 55200MMLENS,,0.41631269623987044,,quantity differs (11 vs 28),rules did not resolve
+22242,203162678,Cuisinart Programmable Coffeemaker - Stainless Steel Finish - DCC2000,Cuisinart Brew & Serve Stainless Therm Black 10-Cup Coffee Maker,,0.4264525373437143,,,rules did not resolve
+22242,203111113,Cuisinart Programmable Coffeemaker - Stainless Steel Finish - DCC2000,Cuisinart Cordless Automatic Electric Kettle,,0.326958535365615,,,rules did not resolve
+22306,90125772,Sanus Center Channel Speaker Mount - Black Finish - VMCC1B,Sanus Speaker Mount - WMS3B BLACK,,0.35960164835164843,,,rules did not resolve
+22306,90120953,Sanus Center Channel Speaker Mount - Black Finish - VMCC1B,Sanus Flat Panel TV Wall Mount - VMF,,0.41232654949121184,,,rules did not resolve
+22382,90120953,Sanus 32' - 50' Flat Panel TV Black Wall Mount - VMPL50B,Sanus Flat Panel TV Wall Mount - VMF,,0.7079738562091503,,,rules did not resolve
+22382,90139261,Sanus 32' - 50' Flat Panel TV Black Wall Mount - VMPL50B,Sanus Flat Panel TV Wall Mount - VM1B,,0.45519350215002385,,,rules did not resolve
+22382,90145584,Sanus 32' - 50' Flat Panel TV Black Wall Mount - VMPL50B,Sanus Flat Panel TV Wall Mount - VM400B,,0.444558533999697,,,rules did not resolve
+22382,90145560,Sanus 32' - 50' Flat Panel TV Black Wall Mount - VMPL50B,Sanus VisionMount Flat Panel TV Wall Mount - VMPL3B,,0.3645204193396965,,,rules did not resolve
+22382,90145561,Sanus 32' - 50' Flat Panel TV Black Wall Mount - VMPL50B,Sanus Flat Panel TV Wall Mount - VM400S,,0.4391821899136755,,,rules did not resolve
+22727,202619749,Weber Q 300 Liquid Propane Outdoor Grill - 426001,Weber Q 300 Gas Grill,,0.6800125313283207,,,rules did not resolve
+22798,202143942,Sanus VMAV Black VisionMount Component Wall Shelf VMAVB In Black - VMAVB,Sanus VCD/DVD Wall Mount - VMAVB,,0.6391923076923076,,one title looks like an accessory,rules did not resolve
+22798,90145560,Sanus VMAV Black VisionMount Component Wall Shelf VMAVB In Black - VMAVB,Sanus VisionMount Flat Panel TV Wall Mount - VMPL3B,,0.5243820039551748,,one title looks like an accessory,rules did not resolve
+22798,202827713,Sanus VMAV Black VisionMount Component Wall Shelf VMAVB In Black - VMAVB,Sanus VisionMount Flat Panel TV Wall Mount - ML22-B1,,0.481101559730592,,one title looks like an accessory,rules did not resolve
+22798,202827684,Sanus VMAV Black VisionMount Component Wall Shelf VMAVB In Black - VMAVB,Sanus VisionMount Flat Panel TV Wall Mount - MF110-B1,,0.4772702518720218,,one title looks like an accessory,rules did not resolve
+22798,202827715,Sanus VMAV Black VisionMount Component Wall Shelf VMAVB In Black - VMAVB,Sanus VisionMount Tilting Flat Panel TV Wall Mount - MT25-B1,,0.45721861471861475,,one title looks like an accessory,rules did not resolve
+23006,204787744,Tivo Wireless Adapter - AG0100,Tivo 80 Hour DVR Recorder,,0.32238636363636364,,one title looks like an accessory,rules did not resolve
+23097,202635701,Uniden 5.8GHz Accessory Handset And Charger - TCX905,Uniden TCX905 Cordless Handset - TCX905,,0.9286928289102202,,one title looks like an accessory,rules did not resolve
+23097,202515446,Uniden 5.8GHz Accessory Handset And Charger - TCX905,Uniden TCX905 Tru-Digital Expansion Handset With Caller ID,,0.7514946764946765,,one title looks like an accessory,rules did not resolve
+23097,205083968,Uniden 5.8GHz Accessory Handset And Charger - TCX905,UNIDEN DCX200 DECT 6.0 Accessory Handset & Charger,,0.34326732673267335,,,rules did not resolve
+23246,204787802,Plantronics Voyager 510 Bluetooth Headset - Silver Finish - 496915,Plantronics Voyager 510 Bluetooth Headset,,0.823731642189586,,,rules did not resolve
+23246,90146847,Plantronics Voyager 510 Bluetooth Headset - Silver Finish - 496915,Plantronics Voyager 510 Bluetooth Earset,,0.7408115792194365,,,rules did not resolve
+23296,201647442,Kingdom Hearts II Video Game For The Sony PS2 - 662248904115,Kingdom Hearts II,,0.6166396103896105,,,rules did not resolve
+23296,205121310,Kingdom Hearts II Video Game For The Sony PS2 - 662248904115,Sony PSP Core System (Piano Black) (Slim Model with AV Video Out Port) - 98510,,0.3383084577114428,,,rules did not resolve
+23325,204787744,TiVo Series2 Dual Tuner Digital Video Recorder - TCD649080,Tivo 80 Hour DVR Recorder,,0.45564939182567593,,,rules did not resolve
+23635,202900002,Panasonic Network Camera - White Finish - BLC1A,Panasonic BL-C1A Network Camera,,0.8608591408591408,,quantity differs (10 vs 1),rules did not resolve
+23651,202778257,Pioneer 6.5' 2-Way Marine White Speakers - TSMR1640,Pioneer Nautica Marine Remote Control,,0.4007683324113344,,one title looks like an accessory,rules did not resolve
+23651,203922244,Pioneer 6.5' 2-Way Marine White Speakers - TSMR1640,Pioneer iBus Interface Cable for iPod - CD-I200,,0.3138070692194404,,one title looks like an accessory,rules did not resolve
+23686,10333848,Linksys EtherFast 4124 24-Port Ethernet Switch - EF4124,Linksys EtherFast EF4124 Ethernet Switch,,1.0,,quantity differs (1 vs 24),rules did not resolve
+23686,10333846,Linksys EtherFast 4124 24-Port Ethernet Switch - EF4124,Linksys EtherFast EF4116 Ethernet Switch,,0.4129896659456862,,quantity differs (1 vs 16),rules did not resolve
+23686,10140760,Linksys EtherFast 4124 24-Port Ethernet Switch - EF4124,Linksys EtherFast EZXS55W Ethernet Switch,,0.39510135135135127,,quantity differs (1 vs 5),rules did not resolve
+23686,10011646,Linksys EtherFast 4124 24-Port Ethernet Switch - EF4124,Linksys EtherFast EZXS88W Ethernet Switch - EZXS88W,,0.3997581035316884,,,rules did not resolve
+23837,203086857,Sony Learning Remote Control - Silver Finish - RMVL600,Sony Remote Control - RMV310,,0.35853658536585364,,,rules did not resolve
+23864,204636071,Hoover Bagged Tempo Widepath Upright Vacuum - U5140,Hoover Company #U5140900 Wide Path Bag Up Vac,,0.5359774436090227,,one title looks like an accessory,rules did not resolve
+23965,203322272,Panasonic All-in-One Flatbed Laser Fax - KXFLB801,Panasonic KX-FLB801 Multifunction Printer - KX-FLB801,,0.6503797566457412,,,rules did not resolve
+24034,203086857,Sony DVD Remote Control For PS2 - Black Finish - 711719707608,Sony Remote Control - RMV310,,0.576795746388443,,,rules did not resolve
+24034,202635467,Sony DVD Remote Control For PS2 - Black Finish - 711719707608,Sony Learning Remote Control - RMVL600,,0.5016521143639788,,,rules did not resolve
+24034,203930685,Sony DVD Remote Control For PS2 - Black Finish - 711719707608,Sony Playstation 3 Blu-Ray DVD Remote - 98046,,0.3875181422351233,,,rules did not resolve
+24402,203111433,KitchenAid 5-Speed Blender - Red Finish - KSB560ER,KitchenAid Pasta Roller And Cutter - KPRA,,0.3780887651674168,,,rules did not resolve
+24493,202900030,Panasonic 2-Line Integrated Phone System - White Finish - KXTS3282W,Panasonic KX-TS3282W Corded Telephone,,0.619343891402715,,quantity differs (1 vs 2),rules did not resolve
+24572,204206934,Panasonic 5.8GHz Add-On Handset For The KXTG6700B Phone System - Black Finish - KXTGA670B,Panasonic KX-TG1032S Dual Handset Digital Cordless Phone,,0.4003325571601972,,,rules did not resolve
+24572,204419878,Panasonic 5.8GHz Add-On Handset For The KXTG6700B Phone System - Black Finish - KXTGA670B,Panasonic KX-TG6702B Cordless Telephone - KX-TG6702B,,0.37557383657940485,,,rules did not resolve
+24572,202537952,Panasonic 5.8GHz Add-On Handset For The KXTG6700B Phone System - Black Finish - KXTGA670B,Panasonic KX-TGA450B Cordless Handset,,0.41069553805774284,,,rules did not resolve
+24572,204206935,Panasonic 5.8GHz Add-On Handset For The KXTG6700B Phone System - Black Finish - KXTGA670B,Panasonic KX-TG1033S Digital Cordless Phone with Three Handsets,,0.3689460243258451,,,rules did not resolve
+24572,90128649,Panasonic 5.8GHz Add-On Handset For The KXTG6700B Phone System - Black Finish - KXTGA670B,Panasonic KX-TS3282B Corded Phone,,0.3956808943089431,,quantity differs (1 vs 2),rules did not resolve
+24615,204587971,Nikon 55-200MM Zoom-Nikkor Lens Accessory - 2156,Nikon 55-200mm f/4-5.6G ED IF AF-S DX VR Zoom Telephoto Nikkor Lens - Niko_216687518,,0.495990965556183,,quantity differs (6 vs 1),rules did not resolve
+24615,203340555,Nikon 55-200MM Zoom-Nikkor Lens Accessory - 2156,Nikon 55-200mm f/4-5.6G ED AF-S DX Telephoto Zoom Lens - 55200MMLENS,,0.4791265081744842,,quantity differs (6 vs 28),rules did not resolve
+24615,204587803,Nikon 55-200MM Zoom-Nikkor Lens Accessory - 2156,Nikon 18-200mm 3.5-5.6 G ED DX AFS VR Zoom Wide Angle Nikkor Lens - Niko_215930348,,0.3998489010989011,,quantity differs (6 vs 1),rules did not resolve
+24615,203396327,Nikon 55-200MM Zoom-Nikkor Lens Accessory - 2156,Nikon Nikkor 70-300mm f/4.5-5.6G ED-IF AF-S VR Telephoto Zoom Lens - 2161,,0.3855962219598583,,quantity differs (6 vs 1),rules did not resolve
+24648,203491687,Waring Professional Cool-Touch Deep Fryer - Black/Stainless Steel Finish - DF100,Waring Pro Deep Fryer 3qt -Black,,0.4747448979591837,,,rules did not resolve
+24921,203340806,Sony DSCH2 Soft Carrying Camera Case - Black Finish - LCSCSH,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.6455282112845138,,,rules did not resolve
+24921,90148541,Sony DSCH2 Soft Carrying Camera Case - Black Finish - LCSCSH,Sony LCS Soft Carrying Case - LCSCST,,0.6007274590163936,,,rules did not resolve
+24937,203324914,Omnimount Moda 2 Shelf Wall Furniture - MWFS,OmniMount MWFS Moda Collection 2 Shelf Wall Mounted Furniture System - Espresso,,0.8621212121212122,,,rules did not resolve
+24937,90140203,Omnimount Moda 2 Shelf Wall Furniture - MWFS,OmniMount TV Top Shelf Mount,,0.4897868217054263,,one title looks like an accessory,rules did not resolve
+24937,90148258,Omnimount Moda 2 Shelf Wall Furniture - MWFS,OmniMount TV Top Shelf Mount - CCH1P,,0.4659519725557461,,one title looks like an accessory,rules did not resolve
+24937,204222662,Omnimount Moda 2 Shelf Wall Furniture - MWFS,OmniMount CMK-MINI Mini Wall Mounted Cable Management System,,0.39038461538461544,,one title looks like an accessory,rules did not resolve
+24937,90106172,Omnimount Moda 2 Shelf Wall Furniture - MWFS,OmniMount Universal Wall Speaker Mounting Kit - 20.0 WALL-B,,0.4010402219140083,,one title looks like a bundle/kit,rules did not resolve
+24937,203389382,Omnimount Moda 2 Shelf Wall Furniture - MWFS,OmniMount 3-Shelf Large-Component Tower - STELLARG303G,,0.36377551020408166,,,rules did not resolve
+24937,90106210,Omnimount Moda 2 Shelf Wall Furniture - MWFS,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,,0.42864506627393223,,one title looks like an accessory,rules did not resolve
+25036,202502745,LEGO Star Wars II: The Original Trilogy Video Game For The Sony PSP - 023272329396,Lego Star Wars 2: The Original Trilogy,,0.652542372881356,,,rules did not resolve
+25036,205121310,LEGO Star Wars II: The Original Trilogy Video Game For The Sony PSP - 023272329396,Sony PSP Core System (Piano Black) (Slim Model with AV Video Out Port) - 98510,,0.3398039948728904,,,rules did not resolve
+25136,203324800,Denon 5 Disc CD Player - Black Finish - DCM390,Denon DVD-2930CI DVD Player - DVD2930CI,,0.42553508150248054,,,rules did not resolve
+25167,203324800,Denon Progressive Scan Universal DVD Player - DVD2930CI,Denon DVD-2930CI DVD Player - DVD2930CI,,0.6963321689425214,,,rules did not resolve
+25262,10315184,Netgear Prosafe 16 Port 10/100 Rackmount Switch - Black Finish - JFS516NA,Netgear ProSafe JFS516 Ethernet Switch,,0.3526351351351351,,possible model variant (jfs516na vs jfs516 differ only by suffix),rule: possible variant (jfs516na vs jfs516 differ only by suffix)
+25388,90145560,Sanus 9' - 17' VisionMount Series Under Cabinet Flat Panel TV Silver Wall Mount - VMUC1S,Sanus VisionMount Flat Panel TV Wall Mount - VMPL3B,,0.4133749519784864,,,rules did not resolve
+25388,202827713,Sanus 9' - 17' VisionMount Series Under Cabinet Flat Panel TV Silver Wall Mount - VMUC1S,Sanus VisionMount Flat Panel TV Wall Mount - ML22-B1,,0.4027898550724638,,,rules did not resolve
+25388,202827715,Sanus 9' - 17' VisionMount Series Under Cabinet Flat Panel TV Silver Wall Mount - VMUC1S,Sanus VisionMount Tilting Flat Panel TV Wall Mount - MT25-B1,,0.37105176501580617,,,rules did not resolve
+25388,202827684,Sanus 9' - 17' VisionMount Series Under Cabinet Flat Panel TV Silver Wall Mount - VMUC1S,Sanus VisionMount Flat Panel TV Wall Mount - MF110-B1,,0.3973121708818511,,,rules did not resolve
+25532,203087319,GE Futura Indoor TV Antenna - Silver Finish - TV24746,GE Pre-Amplifier for Stereo Turntable - 23292,,0.29266581632653066,,,rules did not resolve
+25550,90120953,Sanus 15' To 40' Flat Panel Black TV Wall Mount - ML22B1,Sanus Flat Panel TV Wall Mount - VMF,,0.7024183006535948,,,rules did not resolve
+25550,90139261,Sanus 15' To 40' Flat Panel Black TV Wall Mount - ML22B1,Sanus Flat Panel TV Wall Mount - VM1B,,0.4496989966555184,,,rules did not resolve
+25550,90145584,Sanus 15' To 40' Flat Panel Black TV Wall Mount - ML22B1,Sanus Flat Panel TV Wall Mount - VM400B,,0.433805845827654,,,rules did not resolve
+25550,90145561,Sanus 15' To 40' Flat Panel Black TV Wall Mount - ML22B1,Sanus Flat Panel TV Wall Mount - VM400S,,0.4284295017416325,,,rules did not resolve
+25550,202827684,Sanus 15' To 40' Flat Panel Black TV Wall Mount - ML22B1,Sanus VisionMount Flat Panel TV Wall Mount - MF110-B1,,0.34139362286970854,,,rules did not resolve
+25670,204443417,Olympus Lithium Ion Rechargeable Battery - LI42B,Olympus PS-BLS1 Lithium Ion Digital Camera Battery - 260236,,0.31173079257191405,,,rules did not resolve
+25749,202827713,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MT25B1,Sanus VisionMount Flat Panel TV Wall Mount - ML22-B1,,0.45940170940170943,,,rules did not resolve
+25749,90145560,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MT25B1,Sanus VisionMount Flat Panel TV Wall Mount - VMPL3B,,0.4648828576142551,,,rules did not resolve
+25749,202827684,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MT25B1,Sanus VisionMount Flat Panel TV Wall Mount - MF110-B1,,0.449137253188887,,,rules did not resolve
+25749,90120953,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MT25B1,Sanus Flat Panel TV Wall Mount - VMF,,0.673664425266056,,,rules did not resolve
+25788,203396327,Nikon 70-300mm f/4.5-5.6G ED-IF AF-S VR Zoom-Nikkor Lens - 2161,Nikon Nikkor 70-300mm f/4.5-5.6G ED-IF AF-S VR Telephoto Zoom Lens - 2161,,1.0,,quantity differs (3 vs 1),rules did not resolve
+25788,204587803,Nikon 70-300mm f/4.5-5.6G ED-IF AF-S VR Zoom-Nikkor Lens - 2161,Nikon 18-200mm 3.5-5.6 G ED DX AFS VR Zoom Wide Angle Nikkor Lens - Niko_215930348,,0.460801114594218,,quantity differs (3 vs 1),rules did not resolve
+25797,202870173,Garmin GPS Carrying Case - Black Finish - 0101070400,Garmin Leather GPS Case,,0.5195488721804511,,,rules did not resolve
+25797,202870177,Garmin GPS Carrying Case - Black Finish - 0101070400,Garmin Cigarette Lighter Adapter for GPS,,0.35115942028985503,,,rules did not resolve
+25797,204053338,Garmin GPS Carrying Case - Black Finish - 0101070400,Garmin Leather Carry Case for Nuvi 660 - 010-10823-01,,0.4415697571037377,,,rules did not resolve
+25829,202827684,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MF110B,Sanus VisionMount Flat Panel TV Wall Mount - MF110-B1,,0.5618491175956666,,possible model variant (mf110b vs mf110b1 differ only by suffix),rule: possible variant (mf110b vs mf110b1 differ only by suffix)
+25829,90145560,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MF110B,Sanus VisionMount Flat Panel TV Wall Mount - VMPL3B,,0.4648828576142551,,,rules did not resolve
+25829,202827713,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MF110B,Sanus VisionMount Flat Panel TV Wall Mount - ML22-B1,,0.4508547008547009,,,rules did not resolve
+25829,202827715,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MF110B,Sanus VisionMount Tilting Flat Panel TV Wall Mount - MT25-B1,,0.3995384615384614,,,rules did not resolve
+25829,90120953,Sanus 15' - 40' VisionMount Flat Panel TV Black Wall Mount - MF110B,Sanus Flat Panel TV Wall Mount - VMF,,0.6786149203155609,,,rules did not resolve
+25855,202870174,Garmin Nuvi 360 010-10815-00 Black Replacement Vehicle Suction Cup Mount - 0101081500,Garmin Vehicle Suction Cup mount,,0.6492521367521368,,,rules did not resolve
+25855,203087865,Garmin Nuvi 360 010-10815-00 Black Replacement Vehicle Suction Cup Mount - 0101081500,Garmin Vehicle Suction Mount - 010-10609-00,,0.3875312829293993,,,rules did not resolve
+25855,203870569,Garmin Nuvi 360 010-10815-00 Black Replacement Vehicle Suction Cup Mount - 0101081500,Garmin Suction Cup Mount - 010-10823-00,,0.37035980148883385,,,rules did not resolve
+25855,204219387,Garmin Nuvi 360 010-10815-00 Black Replacement Vehicle Suction Cup Mount - 0101081500,Garmin Suction Cup Mount - 010-10936-00,,0.3663275434243177,,,rules did not resolve
+25857,202870177,Garmin Nuvi 360 010-10723-06 Black 12 Volt Adapter Cable - 0101072306,Garmin Cigarette Lighter Adapter for GPS,,0.45567933595456533,,,rules did not resolve
+25857,204053338,Garmin Nuvi 360 010-10723-06 Black 12 Volt Adapter Cable - 0101072306,Garmin Leather Carry Case for Nuvi 660 - 010-10823-01,,0.4455962712954034,,,rules did not resolve
+25857,202870184,Garmin Nuvi 360 010-10723-06 Black 12 Volt Adapter Cable - 0101072306,Garmin Cigarette Lighter Adapter for GPS Navigation - 010-10747-03,,0.417072440087146,,,rules did not resolve
+25858,204053338,Garmin Nuvi 660 010-10747-03 Black 12 Volt Adapter Cable - 0101074703,Garmin Leather Carry Case for Nuvi 660 - 010-10823-01,,0.4618852459016393,,,rules did not resolve
+25858,202870177,Garmin Nuvi 660 010-10747-03 Black 12 Volt Adapter Cable - 0101074703,Garmin Cigarette Lighter Adapter for GPS,,0.3556793359545653,,,rules did not resolve
+25902,202479411,Lowepro Digital Camera Case In Black - REZO15BK,"Lowepro Rezo 15 Camera Case - MicroFiber, Ripstop Nylon - Black (Black)",,0.5125088131609871,,,rules did not resolve
+25902,202479418,Lowepro Digital Camera Case In Black - REZO15BK,"Lowepro Edit 100 Case for Camcorder - Nylon, MicroFiber - Black (Black)",,0.45917513206013816,,,rules did not resolve
+25902,202479417,Lowepro Digital Camera Case In Black - REZO15BK,"Lowepro SlingShot 200 AW Camera Backpack - Backpack - MicroFiber, Ripstop Nylon - Black, Gray (Black)",,0.43503344481605355,,one title looks like an accessory,rules did not resolve
+25905,202479418,Lowepro Digital Camera Case In Black - EDIT100BK,"Lowepro Edit 100 Case for Camcorder - Nylon, MicroFiber - Black (Black)",,0.45528735632183914,,,rules did not resolve
+25905,202479411,Lowepro Digital Camera Case In Black - EDIT100BK,"Lowepro Rezo 15 Camera Case - MicroFiber, Ripstop Nylon - Black (Black)",,0.5069310344827587,,,rules did not resolve
+25905,202479417,Lowepro Digital Camera Case In Black - EDIT100BK,"Lowepro SlingShot 200 AW Camera Backpack - Backpack - MicroFiber, Ripstop Nylon - Black, Gray (Black)",,0.4300719969685487,,one title looks like an accessory,rules did not resolve
+26059,202870174,Garmin 010-10823-00 Black Nuvi 660 Vehicle Suction Cup Mount - 0101082300,Garmin Vehicle Suction Cup mount,,0.6705627705627706,,,rules did not resolve
+26059,203087865,Garmin 010-10823-00 Black Nuvi 660 Vehicle Suction Cup Mount - 0101082300,Garmin Vehicle Suction Mount - 010-10609-00,,0.408656117146906,,,rules did not resolve
+26059,204219387,Garmin 010-10823-00 Black Nuvi 660 Vehicle Suction Cup Mount - 0101082300,Garmin Suction Cup Mount - 010-10936-00,,0.3912500000000001,,,rules did not resolve
+26059,204053338,Garmin 010-10823-00 Black Nuvi 660 Vehicle Suction Cup Mount - 0101082300,Garmin Leather Carry Case for Nuvi 660 - 010-10823-01,,0.5337301587301587,,,rules did not resolve
+26117,204587909,Universal MRF-350 RF Black Base Station - MRF350,Universal Remote Control MRF-350 Addressable Narrow Band RF Base Station with RFX-250 Antenna,,0.8720567375886525,,one title looks like an accessory,rules did not resolve
+26310,203459314,Bose In-Ear Black Headphones - BOSEIE,Bose In-Ear Earphone - INEARHEADPHONES,,0.7080000000000001,,,rules did not resolve
+26346,202537962,Panasonic KX-TG4500B Black 5.8 GHz Cordless Phone System - KXTG4500B,Panasonic KX-TG4500B Corded/Cordless Telephone,,0.81,,quantity differs (1 vs 4),rules did not resolve
+26350,202537969,Panasonic KX-TGA450B Black 5.8 GHz Cordless Handset - KXTGA450B,Panasonic KX-TGA670B Cordless Handset,,0.37142857142857144,,,rules did not resolve
+26444,203407045,Nyko PlayStation 3 Dual Charger AC - 743840830153,Nyko PS3 Dual AC Charger - 83015,,0.3623456790123456,,,rules did not resolve
+26445,203407043,Nyko PlayStation 3 ChargeLink USB Charging Cable - 743840830009,PlayStation 3 ChargeLink USB Charging Cable by Nyko - 83000,,0.5387978142076504,,,rules did not resolve
+26461,202046565,Linksys Wireless-G VPN Broadband Silver Router - WRV54G,Linksys Wireless-G WRT54GL Broadband Router,,0.4312696232339088,,,rules did not resolve
+26525,203921172,Bose SL2 Wireless Black Surround Link - SL2WIRELESS,Bose SL2 Wireless Surround Link,,0.8390243902439024,,,rules did not resolve
+26525,203459314,Bose SL2 Wireless Black Surround Link - SL2WIRELESS,Bose In-Ear Earphone - INEARHEADPHONES,,0.3211610486891386,,,rules did not resolve
+26615,203329569,Logitech Harmony 1000 Silver Touch Screen Remote Control - H1000,Logitech Harmony 1000 Advanced Universal Remote Control - 966230-0403,,0.6187969924812029,,,rules did not resolve
+26615,202145734,Logitech Harmony 1000 Silver Touch Screen Remote Control - H1000,Logitech Harmony 890 Advanced Universal Remote - 966193-0403,,0.46687344913151363,,,rules did not resolve
+26615,202238311,Logitech Harmony 1000 Silver Touch Screen Remote Control - H1000,"Logitech Harmony 890 Advanced Universal Remote - HDTV, TV, DVD Player(s), Lighting, Audio System - 100 ft - Universal Remote - 966193-0403",,0.38404933305890254,,,rules did not resolve
+26617,201692695,Canon PGI-5BK Black Ink Tank Cartridge - PGI5BK,Canon Black Ink Cartridge - 0615B002,,0.3726871772805508,,,rules did not resolve
+26617,203185276,Canon PGI-5BK Black Ink Tank Cartridge - PGI5BK,Canon PG-40 Black Ink Cartridge - PG-40-BK-TWIN,,0.3462282398452612,,,rules did not resolve
+26695,202479417,Lowepro SlingShot 200 AW Digital Camera Back Pack - SLINGSHOT200AW,"Lowepro SlingShot 200 AW Camera Backpack - Backpack - MicroFiber, Ripstop Nylon - Black, Gray (Black)",,0.5788781770376862,,,rules did not resolve
+26695,202479411,Lowepro SlingShot 200 AW Digital Camera Back Pack - SLINGSHOT200AW,"Lowepro Rezo 15 Camera Case - MicroFiber, Ripstop Nylon - Black (Black)",,0.3673347547974414,,one title looks like an accessory,rules did not resolve
+26695,202479418,Lowepro SlingShot 200 AW Digital Camera Back Pack - SLINGSHOT200AW,"Lowepro Edit 100 Case for Camcorder - Nylon, MicroFiber - Black (Black)",,0.3756716417910448,,one title looks like an accessory,rules did not resolve
+26891,202870174,Garmin 010-10723-03 Nuvi Suction Cup Mount - 0101072303,Garmin Vehicle Suction Cup mount,,0.7008866995073891,,,rules did not resolve
+26891,203870569,Garmin 010-10723-03 Nuvi Suction Cup Mount - 0101072303,Garmin Suction Cup Mount - 010-10823-00,,0.3931818181818182,,,rules did not resolve
+26891,204219387,Garmin 010-10723-03 Nuvi Suction Cup Mount - 0101072303,Garmin Suction Cup Mount - 010-10936-00,,0.38403288201160535,,,rules did not resolve
+26929,203920144,Monster PS3 CV/FO-10 Playstation 3 GameLink Component Video And Fiber Optic Digital Audio AV Kit - PS3CVFO10,Monster Cable GameLink HDMI Digital Video/Audio Cable for PlayStation 3 - 1 x HDMI - 6.56ft - PS3 HDMI-2M,,0.5027406979188564,,one title looks like an accessory; one title looks like a bundle/kit,rules did not resolve
+26930,203920144,Monster PS3 HDMI-2M Playstation 3 GameLink HDMI Digital Video/Audio Cable - PS3HDMI2M,Monster Cable GameLink HDMI Digital Video/Audio Cable for PlayStation 3 - 1 x HDMI - 6.56ft - PS3 HDMI-2M,,0.749812030075188,,,rules did not resolve
+26930,203445879,Monster PS3 HDMI-2M Playstation 3 GameLink HDMI Digital Video/Audio Cable - PS3HDMI2M,Monster Game 127961 GameLink(tm) 2M HDMI Digital Video/Audio Cable for PS3,,0.44421192323397296,,,rules did not resolve
+26930,203651765,Monster PS3 HDMI-2M Playstation 3 GameLink HDMI Digital Video/Audio Cable - PS3HDMI2M,Monster Cable GameLink Component Video and Fiber Optic Digital Audio Cable for PlayStation 3 - 3 x RCA - Toslink - 10ft - PS3 CV/FO-10,,0.5520029057700292,,quantity differs (1 vs 3),rules did not resolve
+27091,203136113,LG TROMM WM2688HNM 4.2 Cu. Ft. Navy Blue Front Load Allergiene SteamWasher - WM2688HNBL,LG Navy Blue SteamWasher 27',,0.5775644994840042,,,rules did not resolve
+27091,203131412,LG TROMM WM2688HNM 4.2 Cu. Ft. Navy Blue Front Load Allergiene SteamWasher - WM2688HNBL,LG Electronics 24' Front-Load All-In-One Washer and Dryer: Titanium,,0.3530075187969925,,,rules did not resolve
+27103,203136113,LG WDP3N 14' Tall Navy Blue Pedestal With Drawer - WDP3BL,LG Navy Blue SteamWasher 27',,0.4443381919285534,,,rules did not resolve
+27137,204049780,Nikon EN-EL9 Black Rechargeable Li-ion Battery - ENEL9,Nikon EN-EL9 Lithium Ion Digital Camera Battery Pack - 25353,,0.7541835357624832,,,rules did not resolve
+27182,202145734,Logitech Harmony RF Wireless Extender - RFEXT,Logitech Harmony 890 Advanced Universal Remote - 966193-0403,,0.41547619047619055,,one title looks like an accessory,rules did not resolve
+27182,203329569,Logitech Harmony RF Wireless Extender - RFEXT,Logitech Harmony 1000 Advanced Universal Remote Control - 966230-0403,,0.41179872758820135,,one title looks like an accessory,rules did not resolve
+27182,202238311,Logitech Harmony RF Wireless Extender - RFEXT,"Logitech Harmony 890 Advanced Universal Remote - HDTV, TV, DVD Player(s), Lighting, Audio System - 100 ft - Universal Remote - 966193-0403",,0.36909382752079384,,one title looks like an accessory,rules did not resolve
+27186,202619749,Weber Stainless Steel Summit S-650 Liquid Propane Grill - 1780001,Weber Q 300 Gas Grill,,0.4254751788908766,,,rules did not resolve
+27197,204318286,Weber Stainless Steel Genesis S320 Natural Gas Grill - 3880001,Weber Genesis Series E-310 3841001 60' Freestanding Gas Grill with 637 sq. in. Cooking Surface & 3 Stainless Steel Burners: Black Natural Gas,,0.2835507814300863,,,rules did not resolve
+27197,202619749,Weber Stainless Steel Genesis S320 Natural Gas Grill - 3880001,Weber Q 300 Gas Grill,,0.5303669222343921,,,rules did not resolve
+27248,10360978,Belkin F3H982-10 Pro Series High Integrity 10 Feet Monitor Cable - F3H98210,Belkin Monitor Cable - F3H982-25,,0.33968068535825546,,,rules did not resolve
+27391,204791643,Kenwood KCA-IP300V iPod Video Direct Cable - KCAIP300V,Kenwood iPod-Video Direct Adapter - KCAiP300V,,0.9689393939393939,,quantity differs (1 vs 2),rules did not resolve
+27391,204791586,Kenwood KCA-IP300V iPod Video Direct Cable - KCAIP300V,Kenwood iPod Direct Cable - kcaip200,,0.39682539682539675,,,rules did not resolve
+27407,203086857,Sony SCPH-98046 PlayStation 3 Blu-Ray DVD Remote Control - 711719804604,Sony Remote Control - RMV310,,0.29442640692640687,,,rules did not resolve
+27719,203379237,LG DLG0452W White XL Capacity Gas Dryer - DLG0452WH,LG Electronics DLG0452W 7.3 Cu. Ft. 9-Cycle Gas Dryer,,0.7103571428571429,,,rules did not resolve
+27729,203379250,LG WM0642HW 4.0 Cu Ft White Rear Control Washer - WM0642HWH,LG Electronics WM0642HW Front Load Washing Machine with 7 Washing Programs,,0.6624290137107475,,,rules did not resolve
+27729,203131413,LG WM0642HW 4.0 Cu Ft White Rear Control Washer - WM0642HWH,LG Electronics 24' Washer/Dryer Combo: White,,0.3432107496463932,,one title looks like a bundle/kit,rules did not resolve
+27771,203405815,Fellowes Confetti Cut Shredder - W11C,Fellowes Powershred Personal SB-97Cs Confetti Cut Shredder - 3219701,,0.3940579710144929,,,rules did not resolve
+27778,90148541,Sony LCS-CSJ Black Soft Carrying Case - LCSCSJ,Sony LCS Soft Carrying Case - LCSCST,,0.8413109756097561,,,rules did not resolve
+27778,203340806,Sony LCS-CSJ Black Soft Carrying Case - LCSCSJ,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.7600000000000001,,,rules did not resolve
+27779,90148541,Sony LCS-CSQ/B Black Soft Carrying Case - LCSCSQB,Sony LCS Soft Carrying Case - LCSCST,,0.8098039215686275,,,rules did not resolve
+27779,203340806,Sony LCS-CSQ/B Black Soft Carrying Case - LCSCSQB,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.7355799373040752,,,rules did not resolve
+27789,204292470,Weber Genesis E-310 Liquid Propane Black Outdoor Grill - 3741001,Genesis Series 3741001 60' Freestanding Gas Grill with 637 sq. in. Cooking Surface & 3 Stainless Steel Burners: Black LP Gas,,0.6517266429222951,,,rules did not resolve
+27793,204318286,Weber Genesis S-310 Natural Gas Stainless Steel Outdoor Grill - 3870001,Weber Genesis Series E-310 3841001 60' Freestanding Gas Grill with 637 sq. in. Cooking Surface & 3 Stainless Steel Burners: Black Natural Gas,,0.3082123385089487,,,rules did not resolve
+27810,204254738,Sony Progressive Scan Black DVD Player - DVPNS57PB,Sony DVPNS57P DVD Player - DVPNS57PS,,0.3888081395348837,,possible model variant (dvpns57pb vs dvpns57p differ only by suffix),rule: possible variant (dvpns57pb vs dvpns57p differ only by suffix)
+27810,203088013,Sony Progressive Scan Black DVD Player - DVPNS57PB,Sony DVPCX995V DVD Player,,0.2717857142857143,,,rules did not resolve
+27840,203131413,LG 14' Washer And Dryer Red Pedestal With Drawer - WDP3R,LG Electronics 24' Washer/Dryer Combo: White,,0.3677132146204311,,one title looks like a bundle/kit,rules did not resolve
+27840,203131412,LG 14' Washer And Dryer Red Pedestal With Drawer - WDP3R,LG Electronics 24' Front-Load All-In-One Washer and Dryer: Titanium,,0.3933333333333333,,,rules did not resolve
+27920,203151930,DeLonghi Magnifica Super-Automatic Espresso/Coffee Machine - ESAM3300,DeLonghi 4-Cup Drip Coffee Makers,,0.36421568627450984,,,rules did not resolve
+27920,201959840,DeLonghi Magnifica Super-Automatic Espresso/Coffee Machine - ESAM3300,"DeLonghi DC50B Twenty Four Seven Drip Coffee Maker, Black",,0.3390285714285714,,,rules did not resolve
+27964,203136102,LG LRBP1031 White Bottom-Freezer Refrigerator - LRBP1031WH,LG Electronics 10 cu.ft. Cabinet Depth Refrigerator,,0.3589449541284404,,,rules did not resolve
+27965,203136102,LG Titanium Bottom-Freezer Refrigerator - LRBP1031TT,LG Electronics 10 cu.ft. Cabinet Depth Refrigerator,,0.3774271844660194,,,rules did not resolve
+27975,10246269,Belkin F3H982-25 Black 25 Ft Pro Series High Integrity VGA/SVGA Monitor Replacement Cable - F3H98225,Belkin Pro Series High Integrity VGA/SVGA Monitor Extension Cable - F3H982-10,,0.45617621637574846,,,rules did not resolve
+27985,204740191,Yamaha Silver USB Powered Stereo Speaker - NXU10SIL,Yamaha NX-U10 USB Powered Stereo Speaker - NX-U10SL,,0.7872549019607844,,,rules did not resolve
+28020,204734549,Canon FAX-JX200 Inkjet Fax Machine - FAXJX200,Canon FAX-JX200 Fax Machine - 1735B002AA,,0.9522104493971503,,quantity differs (600 vs 1),rules did not resolve
+28059,90148541,Sony LCS-TWA/R Red Soft Leather Carrying Case - LCSTWAR,Sony LCS Soft Carrying Case - LCSCST,,0.7738474640113985,,,rules did not resolve
+28059,203340806,Sony LCS-TWA/R Red Soft Leather Carrying Case - LCSTWAR,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.6477667493796526,,,rules did not resolve
+28067,202778257,Pioneer CD-I200 iBus Interface Cable For iPod - CDI200,Pioneer Nautica Marine Remote Control,,0.3103021978021978,,,rules did not resolve
+28148,203131412,LG WM3431W All-In-One White Washer And Dryer Combo - WM3431WH,LG Electronics 24' Front-Load All-In-One Washer and Dryer: Titanium,,0.4893162393162393,,one title looks like a bundle/kit,rules did not resolve
+28148,203131413,LG WM3431W All-In-One White Washer And Dryer Combo - WM3431WH,LG Electronics 24' Washer/Dryer Combo: White,,0.42310679611650487,,,rules did not resolve
+28149,203131412,LG WM3431HS All-In-One Front Load Titanium Washer And Dryer Combo - WM3431TT,LG Electronics 24' Front-Load All-In-One Washer and Dryer: Titanium,,0.5689034369885434,,one title looks like a bundle/kit,rules did not resolve
+28149,203131413,LG WM3431HS All-In-One Front Load Titanium Washer And Dryer Combo - WM3431TT,LG Electronics 24' Washer/Dryer Combo: White,,0.3792046936114733,,,rules did not resolve
+28175,202619749,Weber Genesis E-310 Natural Gas Black Outdoor Grill - 3841001,Weber Q 300 Gas Grill,,0.5317627494456763,,,rules did not resolve
+28180,202916547,Microsoft Office Home And Student 2007 For Windows Vista - 79G00007,Microsoft Office 2007 Standard - 021-07746,,0.5390724642330147,,,rules did not resolve
+28190,202619749,Weber 3758301 Blue Genesis EP-320 LP Gas Grill - 3758301,Weber Q 300 Gas Grill,,0.5392857142857143,,,rules did not resolve
+28225,90148541,Sony LCS-TWA/B Black Soft Leather Carrying Case - LCSTWAB,Sony LCS Soft Carrying Case - LCSCST,,0.7766481579411246,,,rules did not resolve
+28225,203340806,Sony LCS-TWA/B Black Soft Leather Carrying Case - LCSTWAB,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.6473684210526316,,,rules did not resolve
+28272,90148541,Sony Black Cyber-Shot W Series Digital Camera Carrying Case - LCSCSL,Sony LCS Soft Carrying Case - LCSCST,,0.6646978021978023,,,rules did not resolve
+28272,203340806,Sony Black Cyber-Shot W Series Digital Camera Carrying Case - LCSCSL,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.627088948787062,,,rules did not resolve
+28350,204206936,Panasonic Silver Dect 6.0 Cordless Telephone - KXTG1033S,Panasonic KX-TG1034S DECT 6.0 Cordless Phone - KX-TG1034S,,0.4917751171264966,,,rules did not resolve
+28350,202537967,Panasonic Silver Dect 6.0 Cordless Telephone - KXTG1033S,Panasonic KX-TG6700B Cordless Telephone,,0.3445404556166537,,,rules did not resolve
+28366,204563770,Sony Progressive Scan Silver DVD Player - DVPNS57PS,Sony DVPNS57P DVD Player - DVPNS57PB,,0.38900862068965514,,possible model variant (dvpns57ps vs dvpns57p differ only by suffix),rule: possible variant (dvpns57ps vs dvpns57p differ only by suffix)
+28366,203088013,Sony Progressive Scan Silver DVD Player - DVPNS57PS,Sony DVPCX995V DVD Player,,0.2767857142857143,,,rules did not resolve
+28397,203087319,GE Pre-Amplifier For Stereo Turntable - AV23292,GE Pre-Amplifier for Stereo Turntable - 23292,,0.7919254658385092,,,rules did not resolve
+28397,202486964,GE Pre-Amplifier For Stereo Turntable - AV23292,GE Millennium TV Antenna - 24734,,0.2934810126582279,,,rules did not resolve
+28951,203025174,Escort Passport 9500I Radar And Laser Detector - 9500I,Cordless Solo S2 Radar/Laser Detector - 010ES20A,,0.4643627450980392,,,rules did not resolve
+28971,204679144,Altec Lansing inMotion iPod Portable Audio System - IM600USB,Altec Lansing inMotion iM600 Portable Audio Speaker System - IM600,,0.8092857142857143,,,rules did not resolve
+28978,204519849,Panasonic Stainless Steel Countertop Microwave Oven - NNSD377SS,Panasonic NN-SD377S 0.8 cu.ft. 800 WATT Microwave Oven,,0.33081542351453863,,possible model variant (nnsd377ss vs nnsd377s differ only by suffix),rule: possible variant (nnsd377ss vs nnsd377s differ only by suffix)
+28978,204559209,Panasonic Stainless Steel Countertop Microwave Oven - NNSD377SS,Panasonic NNSD767S 1.6 cu. ft. Stainless Steel Countertop Microwave Oven,,0.4165204678362573,,,rules did not resolve
+28978,204559208,Panasonic Stainless Steel Countertop Microwave Oven - NNSD377SS,Panasonic NNSD667S 1.2 cu. ft. Countertop Microwave Oven In Stainless Steel,,0.39792143401983215,,,rules did not resolve
+28978,204559211,Panasonic Stainless Steel Countertop Microwave Oven - NNSD377SS,Panasonic 2.2 cu. ft. Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,,0.42226680438582553,,,rules did not resolve
+28979,204559213,Panasonic Countertop Microwave Oven In Black - NNSN667BK,Panasonic NNSN667B 1.2 cu. ft. Countertop Microwave Oven In Black,,0.49347107438016524,,possible model variant (nnsn667bk vs nnsn667b differ only by suffix),rule: possible variant (nnsn667bk vs nnsn667b differ only by suffix)
+28979,204559214,Panasonic Countertop Microwave Oven In Black - NNSN667BK,Panasonic NNSN667W 1.2 cu. ft. Countertop Microwave Oven In White,,0.33561983471074375,,,rules did not resolve
+28979,204559208,Panasonic Countertop Microwave Oven In Black - NNSN667BK,Panasonic NNSD667S 1.2 cu. ft. Countertop Microwave Oven In Stainless Steel,,0.32413513074549294,,,rules did not resolve
+28979,204559209,Panasonic Countertop Microwave Oven In Black - NNSN667BK,Panasonic NNSD767S 1.6 cu. ft. Stainless Steel Countertop Microwave Oven,,0.2828725961538462,,,rules did not resolve
+28980,204559208,Panasonic Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,Panasonic NNSD667S 1.2 cu. ft. Countertop Microwave Oven In Stainless Steel,,0.33709677419354844,,,rules did not resolve
+28980,204559209,Panasonic Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,Panasonic NNSD767S 1.6 cu. ft. Stainless Steel Countertop Microwave Oven,,0.35093388960205396,,,rules did not resolve
+28981,204559214,Panasonic Countertop Microwave Oven In White - NNSN667WH,Panasonic NNSN667W 1.2 cu. ft. Countertop Microwave Oven In White,,0.49347107438016524,,possible model variant (nnsn667wh vs nnsn667w differ only by suffix),rule: possible variant (nnsn667wh vs nnsn667w differ only by suffix)
+28981,204559213,Panasonic Countertop Microwave Oven In White - NNSN667WH,Panasonic NNSN667B 1.2 cu. ft. Countertop Microwave Oven In Black,,0.3349868120274311,,,rules did not resolve
+28981,204559208,Panasonic Countertop Microwave Oven In White - NNSN667WH,Panasonic NNSD667S 1.2 cu. ft. Countertop Microwave Oven In Stainless Steel,,0.32795192463862277,,,rules did not resolve
+28981,204559209,Panasonic Countertop Microwave Oven In White - NNSN667WH,Panasonic NNSD767S 1.6 cu. ft. Stainless Steel Countertop Microwave Oven,,0.2828725961538462,,,rules did not resolve
+28981,204559211,Panasonic Countertop Microwave Oven In White - NNSN667WH,Panasonic 2.2 cu. ft. Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,,0.29619192925644533,,,rules did not resolve
+28982,204559208,Panasonic Countertop Microwave Oven In Stainless Steel - NNSD667SS,Panasonic NNSD667S 1.2 cu. ft. Countertop Microwave Oven In Stainless Steel,,0.5249999999999999,,possible model variant (nnsd667ss vs nnsd667s differ only by suffix),rule: possible variant (nnsd667ss vs nnsd667s differ only by suffix)
+28982,204559209,Panasonic Countertop Microwave Oven In Stainless Steel - NNSD667SS,Panasonic NNSD767S 1.6 cu. ft. Stainless Steel Countertop Microwave Oven,,0.3496376811594203,,,rules did not resolve
+28982,204559211,Panasonic Countertop Microwave Oven In Stainless Steel - NNSD667SS,Panasonic 2.2 cu. ft. Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,,0.36069567067333264,,,rules did not resolve
+28982,204559214,Panasonic Countertop Microwave Oven In Stainless Steel - NNSD667SS,Panasonic NNSN667W 1.2 cu. ft. Countertop Microwave Oven In White,,0.30381679389312977,,,rules did not resolve
+29008,204792886,LG WM2016CW 3.6 Cu Ft White Front Load Washer - WM2016CWH,"LG Electronics WM2016CW 27' Front-Load Washer with 3.5 cu. ft. Capacity, 5 Wash Programs, 5 Temperature Levels, 1050 RPM Maximum and SenseClean System",,0.6497010066395373,,,rules did not resolve
+29008,203131412,LG WM2016CW 3.6 Cu Ft White Front Load Washer - WM2016CWH,LG Electronics 24' Front-Load All-In-One Washer and Dryer: Titanium,,0.3506147540983606,,,rules did not resolve
+29008,203131413,LG WM2016CW 3.6 Cu Ft White Front Load Washer - WM2016CWH,LG Electronics 24' Washer/Dryer Combo: White,,0.3224386724386724,,one title looks like a bundle/kit,rules did not resolve
+29029,204679142,Canon 580EXII Speedlite In Black - 1946B002,Canon Speedlite 580EX II Flash Light - 1946B002,,0.4984722222222223,,possible model variant (shared 1946b002 but 580exii vs 580ex differ by suffix),rule: possible variant (shared 1946b002 but 580exii vs 580ex differ by suffix)
+29032,205145879,Nikon COOLPIX Leather Camera Case In Black - 5811,Nikon Digital Camera Leather Case - 5811,,0.808828250401284,,,rules did not resolve
+29099,204505951,Olympus Silver Digital Voice Recorder - VN4100PC,Olympus DS-40 512MB Digital Voice Recorder - 141910,,0.3581188118811882,,,rules did not resolve
+29238,204206936,Panasonic Expandable Digital Cordless DECT 6.0 Handset In Silver - KXTGA101S,Panasonic KX-TG1034S DECT 6.0 Cordless Phone - KX-TG1034S,,0.37835714285714284,,,rules did not resolve
+29238,204206934,Panasonic Expandable Digital Cordless DECT 6.0 Handset In Silver - KXTGA101S,Panasonic KX-TG1032S Dual Handset Digital Cordless Phone,,0.27251748251748253,,,rules did not resolve
+29238,202537952,Panasonic Expandable Digital Cordless DECT 6.0 Handset In Silver - KXTGA101S,Panasonic KX-TGA450B Cordless Handset,,0.2950810251695207,,,rules did not resolve
+29238,202537969,Panasonic Expandable Digital Cordless DECT 6.0 Handset In Silver - KXTGA101S,Panasonic KX-TGA670B Cordless Handset,,0.2950810251695207,,,rules did not resolve
+29272,203900792,Tech Craft Dark Cherry Veneto Series TV Stand - SWP60,Techcraft SWP60 Classic Wood Tone Credenza TV Stand,,0.821565934065934,,,rules did not resolve
+29339,204272122,Panasonic Silver Rice Cooker/Warmer - SRTMB10,Panasonic SR-NA18 10-Cup Rice Cooker/Warmer with Advanced Fuzzy Logic Technology,,0.27735932560590104,,,rules did not resolve
+29339,90141074,Panasonic Silver Rice Cooker/Warmer - SRTMB10,Panasonic 3x DVD-RAM Media,,0.3607712944332663,,quantity differs (1 vs 3),rules did not resolve
+29392,204939361,Audiovox 9' LCD Drop Down TV With Built-In DVD - VE927,Audiovox Satellite Radio Tuner,,0.31643151553582755,,,rules did not resolve
+29464,204793355,Sony Clip-On Black Headphones - MDRQ68LW,Sony MDR-Q68LW Stereo Earphone - MDRQ68LW,,0.7896604938271604,,,rules did not resolve
+29493,204549804,Netgear ProSafe 24-Port Smart Switch - GS724TP,Netgear ProSafe GS724TP 24 Port Smart Switch with PoE - GS724TP-100NAS,,1.0,,quantity differs (1 vs 22),rules did not resolve
+29493,201744288,Netgear ProSafe 24-Port Smart Switch - GS724TP,Netgear ProSafe JGS524F 24-Port Gigabit Ethernet Switch - JGS524FNA,,0.4063285166161271,,,rules did not resolve
+29493,10412788,Netgear ProSafe 24-Port Smart Switch - GS724TP,Netgear ProSafe FS726TP 24 Port 10/100 Smart Switch - FS726TPNA,,0.4093290461349369,,quantity differs (1 vs 24),rules did not resolve
+29574,204559208,Panasonic NNSD767S Stainless Steel Countertop Microwave Oven - NNSD767SS,Panasonic NNSD667S 1.2 cu. ft. Countertop Microwave Oven In Stainless Steel,,0.3756933542647829,,,rules did not resolve
+29574,204559211,Panasonic NNSD767S Stainless Steel Countertop Microwave Oven - NNSD767SS,Panasonic 2.2 cu. ft. Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,,0.38367317073170737,,,rules did not resolve
+29612,205106045,Sharp Over The Counter White Microwave Oven - R1211WH,Sharp 1100 Watt Over the Counter Microwave,,0.672967032967033,,,rules did not resolve
+29612,202870448,Sharp Over The Counter White Microwave Oven - R1211WH,Sharp R-1214 Microwave Oven - R-1214,,0.35740664243225384,,,rules did not resolve
+29677,204884519,Monster iFreePlay Cordless Headphones For iPod Shuffle - AISHHPHONE,Monster Cable iFreePlay Cordless Headphone - AI SH HPHONE,,0.7334677419354838,,one title looks like an accessory,rules did not resolve
+29758,201692695,Canon Black Ink Cartridge - PG50,Canon Black Ink Cartridge - 0615B002,,0.4724526420737786,,,rules did not resolve
+29758,201692705,Canon Black Ink Cartridge - PG50,Canon PGI-5BK Black Ink Cartridge - 0628B002,,0.41693959474958586,,,rules did not resolve
+29758,204736197,Canon Black Ink Cartridge - PG50,Canon PG-40 Twin Pack Black Ink Cartridge - 0615B013,,0.3904358353510896,,,rules did not resolve
+29758,201692648,Canon Black Ink Cartridge - PG50,Canon CLI-8M Ink Cartridge - 0622B002,,0.35204890816047496,,,rules did not resolve
+29758,201692679,Canon Black Ink Cartridge - PG50,Canon CLI-8Y Ink Cartridge - 0623B002,,0.35204890816047496,,,rules did not resolve
+29758,201692677,Canon Black Ink Cartridge - PG50,Canon CLI-8C Ink Cartridge - 0621B002,,0.3592952849720692,,,rules did not resolve
+29861,204792876,LG LSC21943ST Stainless Steel Side By Side Refrigerator - LSC21943SS,"LG Electronics LSC21943ST 21.0 cu. ft. Counter-Depth Side-by-Side Refrigerator with 3 Spill-Protector Glass Shelves, SpacePlus Ice System, Digital LED Display and CustomCube Automatic Ice Maker",,0.6628055181987765,,,rules did not resolve
+29861,203136102,LG LSC21943ST Stainless Steel Side By Side Refrigerator - LSC21943SS,LG Electronics 10 cu.ft. Cabinet Depth Refrigerator,,0.3659782941516688,,,rules did not resolve
+29865,203131412,LG WM2233W 4.0 Cu Ft White Front Load Washer - WM2233WH,LG Electronics 24' Front-Load All-In-One Washer and Dryer: Titanium,,0.35583333333333333,,,rules did not resolve
+29865,203131413,LG WM2233W 4.0 Cu Ft White Front Load Washer - WM2233WH,LG Electronics 24' Washer/Dryer Combo: White,,0.33792341678939614,,one title looks like a bundle/kit,rules did not resolve
+29866,203131412,LG WM2455HG 4.2 Cu Ft Pearl Gray Front Load Washer - WM2455G,LG Electronics 24' Front-Load All-In-One Washer and Dryer: Titanium,,0.33573333333333333,,,rules did not resolve
+29902,204787744,TiVo HD Digital Video Recorder (180 Hour) - TCD652160,Tivo 80 Hour DVR Recorder,,0.5401652386780906,,,rules did not resolve
+29906,202139744,Audiovox Xpress XM Satellite Radio Receiver Home Kit - XMH10A,Audiovox XMH10 Home Docking Kit,,0.3292243083003952,,possible model variant (xmh10a vs xmh10 differ only by suffix),rule: possible variant (xmh10a vs xmh10 differ only by suffix)
+29906,204860316,Audiovox Xpress XM Satellite Radio Receiver Home Kit - XMH10A,Audiovox Xpress R XM Radio Receiver with Vehicle Kit XMCK20P,,0.36384297520661146,,,rules did not resolve
+29906,204849801,Audiovox Xpress XM Satellite Radio Receiver Home Kit - XMH10A,Audiovox XMCK5P EXPRESSEZ Satellite Radio - XMCK5P,,0.2922016878538618,,one title looks like a bundle/kit,rules did not resolve
+29906,204939361,Audiovox Xpress XM Satellite Radio Receiver Home Kit - XMH10A,Audiovox Satellite Radio Tuner,,0.5933516483516483,,one title looks like a bundle/kit,rules did not resolve
+29933,202139765,Audiovox Xpress XM Satellite Radio FM Direct Adapter - XMFM1,Audiovox XMFM1 Switch Box,,0.8562320032908268,,one title looks like an accessory,rules did not resolve
+29933,204939361,Audiovox Xpress XM Satellite Radio FM Direct Adapter - XMFM1,Audiovox Satellite Radio Tuner,,0.6005555555555556,,one title looks like an accessory,rules did not resolve
+29933,204849801,Audiovox Xpress XM Satellite Radio FM Direct Adapter - XMFM1,Audiovox XMCK5P EXPRESSEZ Satellite Radio - XMCK5P,,0.2936758893280632,,one title looks like an accessory,rules did not resolve
+29950,204559209,Panasonic NNSD797S Stainless Steel Countertop Microwave Oven - NNSD797SS,Panasonic NNSD767S 1.6 cu. ft. Stainless Steel Countertop Microwave Oven,,0.40534188034188035,,,rules did not resolve
+29950,204559208,Panasonic NNSD797S Stainless Steel Countertop Microwave Oven - NNSD797SS,Panasonic NNSD667S 1.2 cu. ft. Countertop Microwave Oven In Stainless Steel,,0.3661695447409733,,,rules did not resolve
+29950,204559211,Panasonic NNSD797S Stainless Steel Countertop Microwave Oven - NNSD797SS,Panasonic 2.2 cu. ft. Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,,0.38367317073170737,,,rules did not resolve
+30206,204222662,OmniMount CMK White Wall Cable Management Kit - CMKMINI,OmniMount CMK-MINI Mini Wall Mounted Cable Management System,,0.7510869565217392,,one title looks like a bundle/kit,rules did not resolve
+30206,90106172,OmniMount CMK White Wall Cable Management Kit - CMKMINI,OmniMount Universal Wall Speaker Mounting Kit - 20.0 WALL-B,,0.42321187584345477,,one title looks like an accessory,rules did not resolve
+30206,90140203,OmniMount CMK White Wall Cable Management Kit - CMKMINI,OmniMount TV Top Shelf Mount,,0.49098901749504154,,one title looks like a bundle/kit,rules did not resolve
+30206,90106210,OmniMount CMK White Wall Cable Management Kit - CMKMINI,OmniMount Stainless Steel Speaker Mount - 20.0 WALL-W,,0.36587301587301585,,one title looks like a bundle/kit,rules did not resolve
+30206,90148258,OmniMount CMK White Wall Cable Management Kit - CMKMINI,OmniMount TV Top Shelf Mount - CCH1P,,0.36085164835164835,,one title looks like a bundle/kit,rules did not resolve
+30206,203324914,OmniMount CMK White Wall Cable Management Kit - CMKMINI,OmniMount MWFS Moda Collection 2 Shelf Wall Mounted Furniture System - Espresso,,0.37919776119402987,,one title looks like an accessory; one title looks like a bundle/kit,rules did not resolve
+30343,205121310,Sony PSP 2000 Playstation Portable Gaming System Core 98510 In Piano Black - 711719851004,Sony PSP Core System (Piano Black) (Slim Model with AV Video Out Port) - 98510,,0.7883625519952896,,quantity differs (480 vs 1),rules did not resolve
+30436,204222472,Olympus DS40 Digital Voice Recorder - DS40R,Olympus VN-4100PC 256MB Digital Voice Recorder - 141927,,0.3735454545454545,,,rules did not resolve
+30585,204206936,Panasonic Expandable Digital Cordless DECT 6.0 Phone System - KXTG1032S,Panasonic KX-TG1034S DECT 6.0 Cordless Phone - KX-TG1034S,,0.44513888888888875,,,rules did not resolve
+30590,90138537,Panasonic 2 Line Integrated Corded Phone System - KXTSC14B,Panasonic KX-TSC14B Corded Telephone,,0.7208897485493231,,quantity differs (1 vs 2),rules did not resolve
+30590,90105056,Panasonic 2 Line Integrated Corded Phone System - KXTSC14B,Panasonic KX-TS208W Corded Phone,,0.29500000000000004,,quantity differs (1 vs 2),rules did not resolve
+30590,90128649,Panasonic 2 Line Integrated Corded Phone System - KXTSC14B,Panasonic KX-TS3282B Corded Phone,,0.286868131868132,,quantity differs (1 vs 2),rules did not resolve
+30590,90104307,Panasonic 2 Line Integrated Corded Phone System - KXTSC14B,Panasonic KX-TS108W Corded Phone,,0.29500000000000004,,,rules did not resolve
+30591,204939361,Audiovox XpressEZ XM Satellite Radio Receiver - XMCK5P,Audiovox Satellite Radio Tuner,,0.6169642857142857,,,rules did not resolve
+30591,204860316,Audiovox XpressEZ XM Satellite Radio Receiver - XMCK5P,Audiovox Xpress R XM Radio Receiver with Vehicle Kit XMCK20P,,0.33070175438596494,,one title looks like a bundle/kit,rules did not resolve
+30593,204939361,Audiovox XpressR XM Satellite Radio Receiver - XMCK20P,Audiovox Satellite Radio Tuner,,0.6169642857142857,,,rules did not resolve
+30593,204849801,Audiovox XpressR XM Satellite Radio Receiver - XMCK20P,Audiovox XMCK5P EXPRESSEZ Satellite Radio - XMCK5P,,0.3266304347826088,,,rules did not resolve
+30594,204939361,Audiovox Commander MT XM Satellite Radio Receiver - XMRVRFM002,Audiovox Satellite Radio Tuner,,0.6967391304347826,,,rules did not resolve
+30594,204849801,Audiovox Commander MT XM Satellite Radio Receiver - XMRVRFM002,Audiovox XMCK5P EXPRESSEZ Satellite Radio - XMCK5P,,0.2814518633540374,,,rules did not resolve
+30734,202973389,Tech Craft Veneto Series Black TV Stand - ABS60BK,Techcraft Veneto Series ABS32 TV Stand,,0.35344827586206895,,,rules did not resolve
+30939,201692660,Canon Color Image Silver Scanner - 8800F,"Canon Ink Cartridge For PIXMA iP1600, iP6210D and iP6220D Printers - 0617B002",,0.3020557029177719,,one title looks like an accessory,rules did not resolve
+30957,200924629,Linksys Wireless-G Broadband Router - WRT54GL,Linksys WRV54G Wireless-G VPN Broadband Router,,0.45144230769230764,,,rules did not resolve
+31014,204587909,Universal RF Base Station - MRF260,Universal Remote Control MRF-350 Addressable Narrow Band RF Base Station with RFX-250 Antenna,,0.29340317629787804,,one title looks like an accessory,rules did not resolve
+31014,201701865,Universal RF Base Station - MRF260,Peerless Universal Tilt Wall Mount,,0.33872549019607845,,one title looks like an accessory,rules did not resolve
+31176,203340806,Sony White Cybershot T Series Digital Camera Jacket Case With Stylus - LCJTHCW,Sony LCS-CSH Soft Camera Case - LCSCSH,,0.5964285714285714,,,rules did not resolve
+31176,90148541,Sony White Cybershot T Series Digital Camera Jacket Case With Stylus - LCJTHCW,Sony LCS Soft Carrying Case - LCSCST,,0.5021303258145363,,,rules did not resolve
+31284,204049534,Omnimount 42' - 63' Wishbone Cantilever Extra Large Flat Panel TV Silver Wall Mount - UCLXB,OmniMount Wishbone Large/X-Large Premium Cantilever Mount and Universal Adapter - UCL-XB,,0.5052234824349009,,,rules did not resolve
+31284,90140203,Omnimount 42' - 63' Wishbone Cantilever Extra Large Flat Panel TV Silver Wall Mount - UCLXB,OmniMount TV Top Shelf Mount,,0.48901151988108515,,,rules did not resolve
+31332,203086857,Sony Universal Remote Control - RMEZ4,Sony Remote Control - RMV310,,0.39532967032967026,,,rules did not resolve
+31397,202870172,Garmin Replacement USB Cable - 0101072301,Garmin USB Cable - 010-10723-01,,0.3701388888888889,,,rules did not resolve
+31397,202870173,Garmin Replacement USB Cable - 0101072301,Garmin Leather GPS Case,,0.3546875,,,rules did not resolve
+31397,204297424,Garmin Replacement USB Cable - 0101072301,Garmin Portable Friction Mount,,0.3018485915492957,,,rules did not resolve
+31414,90120953,Sanus 15' - 32' Flat Panel TV Black Wall Mount - MF209B1,Sanus Flat Panel TV Wall Mount - VMF,,0.7079738562091503,,,rules did not resolve
+31414,90139261,Sanus 15' - 32' Flat Panel TV Black Wall Mount - MF209B1,Sanus Flat Panel TV Wall Mount - VM1B,,0.4496989966555184,,,rules did not resolve
+31414,90145584,Sanus 15' - 32' Flat Panel TV Black Wall Mount - MF209B1,Sanus Flat Panel TV Wall Mount - VM400B,,0.4391821899136755,,,rules did not resolve
+31414,90145561,Sanus 15' - 32' Flat Panel TV Black Wall Mount - MF209B1,Sanus Flat Panel TV Wall Mount - VM400S,,0.433805845827654,,,rules did not resolve
+31414,90131941,Sanus 15' - 32' Flat Panel TV Black Wall Mount - MF209B1,Sanus Flat Panel TV Wall Mount - VMPL50-B,,0.41581241397391366,,,rules did not resolve
+31414,202827715,Sanus 15' - 32' Flat Panel TV Black Wall Mount - MF209B1,Sanus VisionMount Tilting Flat Panel TV Wall Mount - MT25-B1,,0.3331405436668594,,,rules did not resolve
+31596,204587971,Nikon VR 55-200MM Zoom-Nikkor Lens Accessory - 2166,Nikon 55-200mm f/4-5.6G ED IF AF-S DX VR Zoom Telephoto Nikkor Lens - Niko_216687518,,0.51789417989418,,quantity differs (6 vs 1),rules did not resolve
+31596,204587803,Nikon VR 55-200MM Zoom-Nikkor Lens Accessory - 2166,Nikon 18-200mm 3.5-5.6 G ED DX AFS VR Zoom Wide Angle Nikkor Lens - Niko_215930348,,0.4089755639097744,,quantity differs (6 vs 1),rules did not resolve
+31596,203340555,Nikon VR 55-200MM Zoom-Nikkor Lens Accessory - 2166,Nikon 55-200mm f/4-5.6G ED AF-S DX Telephoto Zoom Lens - 55200MMLENS,,0.4624778858911986,,quantity differs (6 vs 28),rules did not resolve
+31596,203396327,Nikon VR 55-200MM Zoom-Nikkor Lens Accessory - 2166,Nikon Nikkor 70-300mm f/4.5-5.6G ED-IF AF-S VR Telephoto Zoom Lens - 2161,,0.4139400921658986,,quantity differs (6 vs 1),rules did not resolve
+31813,204791586,Kenwood Sirius Radio Translator For In-Dash Head Units - KCASR50,Kenwood iPod Direct Cable - kcaip200,,0.31250000000000006,,one title looks like an accessory,rules did not resolve
+31813,203308084,Kenwood Sirius Radio Translator For In-Dash Head Units - KCASR50,Directed Electronics Sportster 4 Sirius Satellite Radio Receiver - SP4TK1,,0.33167883211678834,,,rules did not resolve
+31813,203388612,Kenwood Sirius Radio Translator For In-Dash Head Units - KCASR50,Directed Electronics Starmate 4 Sirius Satellite Radio Receiver - ST4TK1,,0.32367647058823534,,,rules did not resolve
+31813,203025446,Kenwood Sirius Radio Translator For In-Dash Head Units - KCASR50,Kenwood KCA-IP500 iPod Interface/Controller - KCAIP500,,0.3319007263922519,,,rules did not resolve
+31813,204791643,Kenwood Sirius Radio Translator For In-Dash Head Units - KCASR50,Kenwood iPod-Video Direct Adapter - KCAiP300V,,0.32071277346506705,,quantity differs (1 vs 2); one title looks like an accessory,rules did not resolve
+31887,203151930,Delonghi Coffee Maker In Black - DCF212T,DeLonghi 4-Cup Drip Coffee Makers,,0.5142123287671233,,,rules did not resolve
+31887,201959840,Delonghi Coffee Maker In Black - DCF212T,"DeLonghi DC50B Twenty Four Seven Drip Coffee Maker, Black",,0.5533115671641792,,,rules did not resolve
+31887,203151779,Delonghi Coffee Maker In Black - DCF212T,DeLonghi 6-pc. Replacement Filters for Deep Fryer,,0.34533707865168545,,one title looks like an accessory,rules did not resolve
+31970,205145879,Nikon D300 Digital SLR Digital Camera - D300BODY,Nikon Digital Camera Leather Case - 5811,,0.5057184750733138,,one title looks like an accessory,rules did not resolve
+32005,202899998,Panasonic Outdoor Network Camera - BBHCM331A,Panasonic BB-HCM331A Outdoor Network Camera with 2-Way Audio,,0.8638461538461539,,quantity differs (10 vs 1),rules did not resolve
+32005,202900002,Panasonic Outdoor Network Camera - BBHCM331A,Panasonic BL-C1A Network Camera,,0.3736796536796537,,quantity differs (10 vs 1),rules did not resolve
+32017,202916547,Microsoft Office Standard 2007 - 02107746,Microsoft Office 2007 Standard - 021-07746,,0.5346600688468159,,,rules did not resolve
+32022,204363358,Sony Bluetooth Adaptor/Portable Transmitter - TMRBT10,SONY STEREO BLUETOOTH HEADSET *NIC* - TMRBT10/TMRBT10A,,0.6504761904761904,,,rules did not resolve
+32027,204559209,Panasonic 27' Stainless Steel Microwave Trim Kit - TK903SS,Panasonic NNSD767S 1.6 cu. ft. Stainless Steel Countertop Microwave Oven,,0.2796781260532524,,one title looks like a bundle/kit,rules did not resolve
+32027,204559211,Panasonic 27' Stainless Steel Microwave Trim Kit - TK903SS,Panasonic 2.2 cu. ft. Stainless Steel Luxury Full Size Countertop Microwave Oven - NNSD967SS,,0.28720044350740437,,one title looks like a bundle/kit,rules did not resolve
+32033,204465488,Jabra Black Bluetooth Headset - BT5010,GN Jabra BT5010 Wireless Earset,,0.8099619625403245,,,rules did not resolve
+32059,205131849,Unreal Tournament III Video Game For The Sony PS3 - UNREALPS3,Unreal Tournament III - 26991,,0.5814102564102565,,,rules did not resolve
+32228,203136113,LG DLEX8377NM Navy Blue XL Capacity Electric SteamDryer - DLEX8377BLUE,LG Navy Blue SteamWasher 27',,0.4312342296878379,,,rules did not resolve
+32314,204679144,Altec Lansing Orbit-MP3 Portable Audio System - IM207,Altec Lansing inMotion iM600 Portable Audio Speaker System - IM600,,0.37725744843391906,,,rules did not resolve
+32322,202592070,Fellowes Personal Powershred Shredder - SB97CS,Fellowes Powershred Personal W11C Shredder - 30100,,0.41011379551820726,,,rules did not resolve
+32384,202989028,Logitech QuickCam Communicate STX - 961464,"Logitech QuickCam Communicate STX Webcam - Black, Charcoal - 961464-0403",,0.8636816170555107,,quantity differs (640 vs 1),rules did not resolve
+32395,203136113,LG WM3988HWA 4.2 Cu Ft White Full Size SteamWasher And Dryer Combo - WM3988WH,LG Navy Blue SteamWasher 27',,0.4234709193245779,,one title looks like a bundle/kit,rules did not resolve
+32395,203131413,LG WM3988HWA 4.2 Cu Ft White Full Size SteamWasher And Dryer Combo - WM3988WH,LG Electronics 24' Washer/Dryer Combo: White,,0.37264705882352944,,,rules did not resolve
+32416,203087319,GE Amplified Quantum Antenna - TV24775,GE Pre-Amplifier for Stereo Turntable - 23292,,0.3583734939759037,,,rules did not resolve
+32431,202827677,Peerless 42' - 71' Articulating Flat Panel TV Silver Dual Wall Arm Mount - PLAV70UNLPS,Peerless PLAV70-UNLP-S Articulating Dual-Arm with Vertical Adjustment - PLAV70 UNLPS,,0.7446858864027539,,one title looks like an accessory,rules did not resolve
+32431,201701865,Peerless 42' - 71' Articulating Flat Panel TV Silver Dual Wall Arm Mount - PLAV70UNLPS,Peerless Universal Tilt Wall Mount,,0.4734284343734295,,,rules did not resolve

@@ -39,6 +39,8 @@ BENCHMARKS = {
 def read_csv(path) -> pd.DataFrame:
     for enc in ("utf-8", "latin-1"):
         try:
+            if hasattr(path, "seek"):
+                path.seek(0)
             return pd.read_csv(path, encoding=enc, dtype=str, keep_default_na=False)
         except UnicodeDecodeError:
             continue

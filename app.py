@@ -64,7 +64,7 @@ with st.sidebar:
         rf = st.file_uploader("Catalog B (CSV)", type="csv")
         lname, rname = "A", "B"
         if lf and rf:
-            left_df, right_df = pd.read_csv(lf, dtype=str, keep_default_na=False), pd.read_csv(rf, dtype=str, keep_default_na=False)
+            left_df, right_df = D.read_csv(io.BytesIO(lf.getvalue())), D.read_csv(io.BytesIO(rf.getvalue()))
 
     def mapper(df, label):
         st.subheader(f"Columns: {label}")
