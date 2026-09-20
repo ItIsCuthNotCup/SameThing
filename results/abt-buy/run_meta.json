@@ -1,0 +1,94 @@
+{
+ "benchmark": "abt-buy",
+ "k": 8,
+ "jev_topk": 3,
+ "dev_left_for_jev": 120,
+ "split": {
+  "records": {
+   "dev/Abt": 433,
+   "dev/Buy": 435,
+   "test/Abt": 648,
+   "test/Buy": 657
+  },
+  "gold_pairs": {
+   "test": 659,
+   "dev": 438
+  }
+ },
+ "retrieval": {
+  "dev": {
+   "gold": 438,
+   "recall@16": 1.0,
+   "pairs": 4808,
+   "recall@3(jev_pool)": 0.95662100456621,
+   "misses": []
+  },
+  "test": {
+   "gold": 659,
+   "recall@16": 0.9969650986342944,
+   "pairs": 7207,
+   "recall@3(jev_pool)": 0.960546282245827,
+   "misses": [
+    [
+     "34962",
+     "208114681"
+    ],
+    [
+     "23006",
+     "204787746"
+    ]
+   ]
+  }
+ },
+ "jev": {
+  "ran": true,
+  "model": "jev-1.13.0",
+  "variant": "v1",
+  "budget": {
+   "attempts": 2419,
+   "input_tokens": 3011742,
+   "output_tokens": 609167,
+   "estimated_usd": 0.12649,
+   "failures": 0,
+   "latency_p50_s": 0.13345670700073242,
+   "latency_p95_s": 0.2373490333557129
+  },
+  "cache_entries": 2398
+ },
+ "thresholds": {
+  "fuzzy@99": [
+   0.984961273666093,
+   0.27018135341023264
+  ],
+  "supervised@99": [
+   0.9995058489545291,
+   0.041660649799478824
+  ],
+  "jev@99": [
+   0.5092,
+   0.0
+  ],
+  "hybrid@99": [
+   0.5092,
+   0.0
+  ],
+  "fuzzy@95": [
+   0.984961273666093,
+   0.27018135341023264
+  ],
+  "supervised@95": [
+   0.9951959466092136,
+   0.041660649799478824
+  ],
+  "jev@95": [
+   0.2786,
+   0.0
+  ],
+  "hybrid@95": [
+   0.38465,
+   0.0
+  ]
+ },
+ "runtime_s": 99.7,
+ "finished_at": "2026-09-20T19:49:05.302709+00:00"
+}
