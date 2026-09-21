@@ -1,0 +1,27 @@
+{
+  "benchmark_page": "https://dbs.uni-leipzig.de/research/projects/benchmark-datasets-for-entity-resolution",
+  "datasets": {
+    "abt-buy": {
+      "url": "https://dbs.uni-leipzig.de/files/datasets/Abt-Buy.zip",
+      "sha256": "b9ff2937d97371b7a00b0a97033213bfbdee24e8f1a0718a41ea8364472a8ff8",
+      "files": [
+        "Abt.csv",
+        "Buy.csv",
+        "abt_buy_perfectMapping.csv"
+      ],
+      "license_note": "Research benchmark published by the Database Group, University of Leipzig (K\u00f6pcke, Thor, Rahm, VLDB 2010). Used here for evaluation only; product data is historical (c. 2010) and prices are not current offers.",
+      "download_date_utc": "2026-09-20T19:49:17.178189+00:00"
+    },
+    "amazon-google": {
+      "url": "https://dbs.uni-leipzig.de/files/datasets/Amazon-GoogleProducts.zip",
+      "sha256": "fcd72e223d51ce5b0d6b1d68034a438ba95cf2940431e209a57910b067cc4811",
+      "files": [
+        "Amazon.csv",
+        "Amzon_GoogleProducts_perfectMapping.csv",
+        "GoogleProducts.csv"
+      ],
+      "license_note": "Research benchmark published by the Database Group, University of Leipzig (K\u00f6pcke, Thor, Rahm, VLDB 2010). Used here for evaluation only; product data is historical (c. 2010) and prices are not current offers.",
+      "download_date_utc": "2026-09-20T19:49:17.181505+00:00"
+    }
+  }
+}

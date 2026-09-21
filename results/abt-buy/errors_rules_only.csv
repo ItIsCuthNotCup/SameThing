@@ -1,0 +1,9 @@
+error,category,count
+false_match,wording,11
+missed_match,identifier missing,110
+missed_match,wording,70
+missed_match,model number differs,51
+missed_match,quantity/multipack,48
+missed_match,accessory vs product,21
+missed_match,bundle,7
+missed_match,capacity/variant,5

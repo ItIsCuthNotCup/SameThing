@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.zip
+data/raw/*/
+results/*/dev_pairs_scored.csv
+results/*/test_pairs_scored.csv
+.env
